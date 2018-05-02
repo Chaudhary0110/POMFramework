@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Session Selected]]>
+    </line>
+    <line>
+      <![CDATA[Switched to calendar frame]]>
+    </line>
+    <line>
+      <![CDATA[Today : May 1, 2018 is selected]]>
+    </line>
+    <line>
+      <![CDATA[From Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[From Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[Exam Category Selected]]>
+    </line>
+    <line>
+      <![CDATA[Is Active Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_01_05_2018_12_18_22.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_01_05_2018_12_18_22.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="21107" started-at="2018-05-01T06:48:01Z" finished-at="2018-05-01T06:48:23Z">
+    <groups>
+    </groups>
+    <test name="Login test" duration-ms="21107" started-at="2018-05-01T06:48:01Z" finished-at="2018-05-01T06:48:23Z">
+      <class name="signInAction.TC_Login">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:signInAction.TC_Login@1928643]" name="startTest" is-config="true" duration-ms="4101" started-at="2018-05-01T12:18:01Z" finished-at="2018-05-01T12:18:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:signInAction.TC_Login@1928643]" name="ExamConfigMasterTest" duration-ms="15542" started-at="2018-05-01T12:18:06Z" data-provider="loginData" finished-at="2018-05-01T12:18:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Session Selected]]>
+            </line>
+            <line>
+              <![CDATA[Switched to calendar frame]]>
+            </line>
+            <line>
+              <![CDATA[Today : May 1, 2018 is selected]]>
+            </line>
+            <line>
+              <![CDATA[From Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[From Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[Exam Category Selected]]>
+            </line>
+            <line>
+              <![CDATA[Is Active Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_01_05_2018_12_18_22.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_01_05_2018_12_18_22.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:signInAction.TC_Login@1928643]" name="endTest" is-config="true" duration-ms="610" started-at="2018-05-01T12:18:22Z" finished-at="2018-05-01T12:18:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- signInAction.TC_Login -->
+    </test> <!-- Login test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
