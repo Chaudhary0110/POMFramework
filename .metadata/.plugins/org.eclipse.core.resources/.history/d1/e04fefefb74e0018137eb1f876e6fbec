@@ -72,7 +72,7 @@ Git Commands ----------*********-------------
 8.	Push the commit – git push origin master  
 9.	Set the URL - git remote set-url origin url
 10.	 Remove remote – git remove rm origin
-11.  Pull updated project from repository - git pull
+
 
 
 
