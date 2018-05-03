@@ -71,9 +71,12 @@ Git Commands ----------*********-------------
 7.	Check existing remote - git remote –v
 8.	Push the commit – git push origin master  
 9.	Set the URL - git remote set-url origin url
-10.	 Remove remote – git remove rm origin
-
-
+10.	Remove remote – git remove rm origin
+11. Pull updated project from repository - git pull
+12. Create branch - git checkout -b "Amit_local"
+13. To check all the branch - git branch
+14. Push the commit on local branch -  git push --set-upstream origin Amit_local
+15. Check the status - git status
 
 
 
