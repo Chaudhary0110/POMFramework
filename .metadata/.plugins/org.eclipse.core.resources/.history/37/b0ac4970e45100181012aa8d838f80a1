@@ -9,7 +9,7 @@
 	<parameter name = "passWord" value = "amit@123" />
 
 	<classes>
-		<class name = "signInAction.testpractis" /> 
+		<class name = "signInAction.testpractis" > </class>
 	</classes>
 	
 </test>

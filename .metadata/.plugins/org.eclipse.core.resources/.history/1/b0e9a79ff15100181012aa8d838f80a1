@@ -30,11 +30,10 @@ public class testpractis {
 	}
 	
 	@Test
-	public void getProperties() throws IOException{
+	public void init() throws IOException{
 		System.out.println(getObject("Name"));
 		System.out.println(getObject("Place"));
 		System.out.println(getObject("url"));
-		System.out.println(getObject("browser"));
 	}
 	
 }

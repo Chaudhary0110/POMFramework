@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="test DataProvider Xml" duration-ms="510" started-at="2018-05-07T10:25:09Z" finished-at="2018-05-07T10:25:10Z">
+  <suite name="Default suite" duration-ms="39" started-at="2018-05-07T12:25:21Z" finished-at="2018-05-07T12:25:21Z">
     <groups>
     </groups>
-    <test name="testing DataProvide Xml" duration-ms="510" started-at="2018-05-07T10:25:09Z" finished-at="2018-05-07T10:25:10Z">
+    <test name="Default test" duration-ms="39" started-at="2018-05-07T12:25:21Z" finished-at="2018-05-07T12:25:21Z">
       <class name="signInAction.testpractis">
-        <test-method status="PASS" signature="print()[pri:0, instance:signInAction.testpractis@1efef64]" name="print" duration-ms="0" started-at="2018-05-07T15:55:09Z" finished-at="2018-05-07T15:55:09Z">
+        <test-method status="PASS" signature="getProperties()[pri:0, instance:signInAction.testpractis@19f99ea]" name="getProperties" duration-ms="10" started-at="2018-05-07T17:55:21Z" finished-at="2018-05-07T17:55:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- print -->
-        <test-method status="PASS" signature="testingDataProvider(java.lang.String, java.lang.String)[pri:0, instance:signInAction.testpractis@1efef64]" name="testingDataProvider" duration-ms="0" started-at="2018-05-07T15:55:10Z" data-provider="UserNamePassword" finished-at="2018-05-07T15:55:10Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[erp@admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Jnvu@)!^]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testingDataProvider -->
-        <test-method status="PASS" signature="testingDataProvider(java.lang.String, java.lang.String)[pri:0, instance:signInAction.testpractis@1efef64]" name="testingDataProvider" duration-ms="0" started-at="2018-05-07T15:55:10Z" data-provider="UserNamePassword" finished-at="2018-05-07T15:55:10Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[erp@admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Jnvu@)!^]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testingDataProvider -->
+        </test-method> <!-- getProperties -->
       </class> <!-- signInAction.testpractis -->
-    </test> <!-- testing DataProvide Xml -->
-  </suite> <!-- test DataProvider Xml -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
