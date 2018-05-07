@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suit name = "testDataProviderXml">
+
+<test name = "testingDataProvideXml">
+
+<parameter name = "userName" value = "amit" />
+<parameter name = "passWord" value = "amit@123" />
+
+<classes >
+
+<class name = "signInAction.testpractis">
+
+</class>>
+</classes>>
+</test>>
+</suit>>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suit name = "practis" thread-count = "3">
+<test name = "practis test">
+
+	<parameter name = "id" value = "Amit" />
+	<parameter name = "pass" value = "kumar" />
+
+	<classes>
+
+		<class name = "uiAutomation.testFirefox">
+
+	</class>>
+
+</classes>>
+</test>>
+</suit>>

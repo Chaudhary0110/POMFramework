@@ -16,6 +16,7 @@ import org.testng.SkipException;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import pageObject.ExamConfigurationMaster;
@@ -43,12 +44,13 @@ public class TC_Login extends TestBase {
 		String[][] idPassword = getData("TestData.xlsx", "LoginTestData");
 		return idPassword;
 	}
-	
-		
+	 
+			
 	@BeforeTest
-	public void startTest() throws IOException{
+	@Parameters("browser")
+	public void startTest(String browser) throws IOException{
 		
-		init();
+		init(browser);
 	}
 
 	@Test(dataProvider = "loginData")
@@ -64,9 +66,11 @@ public class TC_Login extends TestBase {
 			throw new SkipException("User Marked this test as no run");
 			
 		homepage.navigateToiumsLoginPage();
+		
 			for(String s : dr.getWindowHandles())
 				dr.switchTo().window(s);
 				log("Switched to new window");
+				
 				
 								
 		loginpage = new LoginPage(dr);

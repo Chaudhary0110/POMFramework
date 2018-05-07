@@ -1,0 +1,54 @@
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+
+
+
+
+public class testFirefox {
+
+	
+		/*@BeforeTest
+		public void setUp(){
+		
+		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\Drivers\\chromedriver.exe");
+		
+		WebDriver dr = new ChromeDriver();
+		dr.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		dr.get("http://52.172.14.165/JNVUIUMS");
+		
+		}
+
+		@DataProvider(name = "data")
+		public Object[][] getData()	
+		{
+		
+		Object[][] data = new Object[3][2];
+
+		// 1st row
+		data[0][0] ="sampleuser1";
+		data[0][1] = "abcdef";
+
+		// 2nd row
+		data[1][0] ="testuser2";
+		data[1][1] = "zxcvb";
+		
+		// 3rd row
+		data[2][0] ="guestuser3";
+		data[2][1] = "pass123";
+
+		return data;
+		}*/
+		
+		@Test //(dataProvider = "data")
+		@Parameters ({"id", "pass"})
+		public void printData( @Optional("abc") String id, String pass){
+			
+		System.out.println("1st : "+id);
+		System.out.println("2nd : "+pass);
+		}
+		
+	}
+

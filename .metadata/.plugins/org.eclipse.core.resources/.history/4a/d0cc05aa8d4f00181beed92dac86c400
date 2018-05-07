@@ -1,0 +1,21 @@
+package signInAction;
+
+
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+
+public class testFirefox {
+
+
+		@Test 
+		@Parameters("id")
+		public void printData(String id){
+			
+		System.out.println(id);
+		
+		
+		}
+		
+	}
+

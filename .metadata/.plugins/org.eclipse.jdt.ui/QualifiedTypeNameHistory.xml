@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
-<fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
-<fullyQualifiedTypeName name="com.test.automation.uiAutomation.pageObject.LoginPage"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
-<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-<fullyQualifiedTypeName name="com.test.automation.uiAutomation.testBase.TestBase"/>
 <fullyQualifiedTypeName name="org.apache.log4j.PropertyConfigurator"/>
 <fullyQualifiedTypeName name="pageObject.HomePage"/>
-<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
 <fullyQualifiedTypeName name="pageObject.MyModules"/>
 <fullyQualifiedTypeName name="utilities.ExcelReader"/>
-<fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
 <fullyQualifiedTypeName name="org.testng.SkipException"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.FluentWait"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Wait"/>
@@ -23,7 +14,6 @@
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.File"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -40,7 +30,6 @@
 <fullyQualifiedTypeName name="org.testng.IRetryAnalyzer"/>
 <fullyQualifiedTypeName name="testBase.TestBase"/>
 <fullyQualifiedTypeName name="org.testng.ITestContext"/>
-<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
 <fullyQualifiedTypeName name="pageObject.ExaminationAndResult"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
 <fullyQualifiedTypeName name="pageObject.ExamConfigurationMaster"/>
@@ -53,7 +42,22 @@
 <fullyQualifiedTypeName name="pageObject.ExamConfigurationTransaction"/>
 <fullyQualifiedTypeName name="org.openqa.selenium.ie.InternetExplorerDriver"/>
 <fullyQualifiedTypeName name="java.util.Properties"/>
-<fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="com.beust.jcommander.Parameter"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Parameters"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Optional"/>
+<fullyQualifiedTypeName name="org.apache.poi.sl.usermodel.Sheet"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Workbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Sheet"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
 </qualifiedTypeNameHistroy>

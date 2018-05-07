@@ -2801,3 +2801,901 @@
 2018-05-03 12:15:13,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
 2018-05-03 12:15:13,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-05-03 12:15:13,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 15:12:43,825 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 15:12:45,184 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:12:45,184 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 15:12:45,184 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:12:45,184 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 15:24:14,854 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:24:14,854 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 15:24:14,856 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:24:14,857 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 15:45:33,091 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:45:33,091 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 15:45:33,091 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:45:33,091 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 15:46:07,748 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:46:07,748 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 15:46:07,764 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:46:07,764 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 15:46:43,795 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:46:43,795 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 15:46:43,795 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 15:46:43,795 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:02:36,741 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:02:36,742 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:02:36,743 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:02:36,744 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:06:13,393 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:06:13,393 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:06:13,394 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:06:13,395 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:10:23,871 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:10:23,872 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:10:23,873 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:10:23,873 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:10:41,711 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:10:41,712 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:10:41,712 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:10:41,713 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:11:25,563 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:11:25,564 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:11:25,566 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:11:25,566 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:12:08,822 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:12:08,823 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:12:08,824 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:12:08,824 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:13:59,434 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:13:59,434 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:13:59,435 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:13:59,435 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:16:33,395 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:16:33,438 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:16:33,439 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:16:33,439 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:17:43,960 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:17:43,960 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:17:43,962 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:17:43,962 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:19:57,854 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:19:57,854 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:19:57,870 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:19:57,870 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:22:42,804 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:22:42,804 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:22:42,804 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:22:42,804 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 18:25:01,826 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:25:01,826 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 18:25:01,826 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 18:25:01,826 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:07:03,791 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:07:03,791 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:07:03,791 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:07:03,791 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:12:22,535 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:12:22,535 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:12:22,535 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:12:22,535 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:15:20,885 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.automation:uiAutomation:0.0.1-SNAPSHOT @ D:\hybridFramework\uiAutomation\pom.xml.
+2018-05-03 19:15:23,892 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.pom
+2018-05-03 19:15:24,207 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.pom
+2018-05-03 19:15:24,552 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.pom
+2018-05-03 19:15:24,850 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.pom
+2018-05-03 19:15:25,147 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.pom
+2018-05-03 19:15:25,460 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.pom
+2018-05-03 19:15:25,775 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.pom
+2018-05-03 19:15:26,124 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.pom
+2018-05-03 19:15:26,696 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.pom
+2018-05-03 19:15:27,037 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.pom
+2018-05-03 19:15:27,350 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.pom
+2018-05-03 19:15:27,732 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.pom
+2018-05-03 19:15:28,042 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.pom
+2018-05-03 19:15:28,370 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.pom
+2018-05-03 19:15:28,682 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.pom
+2018-05-03 19:15:29,025 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.pom
+2018-05-03 19:15:29,348 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.pom
+2018-05-03 19:15:29,700 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.pom
+2018-05-03 19:15:30,009 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.pom
+2018-05-03 19:15:30,322 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.pom
+2018-05-03 19:15:30,650 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:15:30,988 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.jar
+2018-05-03 19:15:31,298 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.jar
+2018-05-03 19:15:31,580 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar
+2018-05-03 19:15:32,796 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar
+2018-05-03 19:15:33,155 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.jar
+2018-05-03 19:15:33,514 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.jar
+2018-05-03 19:15:33,807 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar
+2018-05-03 19:15:34,151 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar
+2018-05-03 19:15:34,447 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.jar
+2018-05-03 19:15:36,532 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.jar
+2018-05-03 19:15:36,821 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.jar
+2018-05-03 19:15:37,268 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.jar
+2018-05-03 19:15:37,565 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.jar
+2018-05-03 19:15:37,900 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.jar
+2018-05-03 19:15:38,191 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar
+2018-05-03 19:15:39,007 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar
+2018-05-03 19:15:39,304 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.jar
+2018-05-03 19:15:39,647 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.jar
+2018-05-03 19:15:39,967 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar
+2018-05-03 19:15:40,436 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar
+2018-05-03 19:15:42,783 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:15:42,783 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:15:42,783 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:15:42,783 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:15:44,503 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:15:44,519 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:15:44,519 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:15:44,519 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:15:44,519 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:15:51,521 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\hybridFramework\uiAutomation
+2018-05-03 19:15:51,521 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-03 19:15:54,400 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:15:54,400 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:15:54,400 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:15:54,400 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:16:40,347 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:16:40,347 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:16:40,347 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:16:40,347 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:16:45,783 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\hybridFramework\uiAutomation
+2018-05-03 19:16:45,783 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-03 19:16:50,629 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:16:50,629 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:16:50,629 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:16:50,629 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:17:02,410 [Worker-90] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-03 19:17:02,693 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.automation:uiAutomation:0.0.1-SNAPSHOT @ D:\hybridFramework\uiAutomation\pom.xml.
+2018-05-03 19:17:02,803 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:17:02,959 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uiAutomation/src/main/java
+2018-05-03 19:17:02,959 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uiAutomation/src/test/java
+2018-05-03 19:17:03,146 [Worker-90] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-05-03 19:17:03,568 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:17:03,584 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:17:03,584 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:17:03,584 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:17:03,584 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:19:24,197 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:19:24,197 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:19:24,212 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:19:24,212 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:20:01,942 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:20:01,942 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:20:01,942 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:20:01,942 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:20:55,311 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:20:55,311 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:20:55,311 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:20:55,311 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:21:22,696 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:21:22,697 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:21:22,697 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:21:22,697 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:27:26,388 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:28:45,916 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.automation:uiAutomation:0.0.1-SNAPSHOT @ D:\hybridFramework\uiAutomation\pom.xml.
+2018-05-03 19:28:48,727 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.pom
+2018-05-03 19:28:49,098 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.pom
+2018-05-03 19:28:49,410 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.pom
+2018-05-03 19:28:49,787 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.pom
+2018-05-03 19:28:50,132 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.pom
+2018-05-03 19:28:50,491 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.pom
+2018-05-03 19:28:50,811 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.pom
+2018-05-03 19:28:51,124 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.pom
+2018-05-03 19:28:51,436 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.pom
+2018-05-03 19:28:51,809 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.pom
+2018-05-03 19:28:52,121 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.7.5/byte-buddy-parent-1.7.5.pom
+2018-05-03 19:28:52,574 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.7.5/byte-buddy-parent-1.7.5.pom
+2018-05-03 19:28:52,994 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+2018-05-03 19:28:53,845 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+2018-05-03 19:28:54,171 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+2018-05-03 19:28:54,542 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+2018-05-03 19:28:54,861 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.pom
+2018-05-03 19:28:55,174 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.pom
+2018-05-03 19:28:55,486 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/23.0/guava-parent-23.0.pom
+2018-05-03 19:28:55,869 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/23.0/guava-parent-23.0.pom
+2018-05-03 19:28:56,222 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.pom
+2018-05-03 19:28:56,535 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.pom
+2018-05-03 19:28:56,852 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.0.18/error_prone_parent-2.0.18.pom
+2018-05-03 19:28:57,164 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.0.18/error_prone_parent-2.0.18.pom
+2018-05-03 19:28:57,617 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.pom
+2018-05-03 19:28:57,938 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.pom
+2018-05-03 19:28:58,235 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.pom
+2018-05-03 19:28:58,547 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.pom
+2018-05-03 19:28:58,851 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.pom
+2018-05-03 19:28:59,211 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.pom
+2018-05-03 19:28:59,524 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.pom
+2018-05-03 19:28:59,885 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.pom
+2018-05-03 19:29:00,198 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.pom
+2018-05-03 19:29:00,557 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.pom
+2018-05-03 19:29:00,876 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.pom
+2018-05-03 19:29:01,189 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.pom
+2018-05-03 19:29:01,251 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:29:01,595 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.jar
+2018-05-03 19:29:01,885 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.jar
+2018-05-03 19:29:02,174 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.jar
+2018-05-03 19:29:03,332 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.jar
+2018-05-03 19:29:03,711 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.jar
+2018-05-03 19:29:04,100 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.jar
+2018-05-03 19:29:04,397 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.jar
+2018-05-03 19:29:04,776 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.jar
+2018-05-03 19:29:05,060 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.jar
+2018-05-03 19:29:22,805 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.jar
+2018-05-03 19:29:23,159 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.jar
+2018-05-03 19:29:25,132 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.jar
+2018-05-03 19:29:25,747 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.jar
+2018-05-03 19:29:26,577 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.jar
+2018-05-03 19:29:27,003 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.jar
+2018-05-03 19:29:43,080 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.jar
+2018-05-03 19:29:43,366 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.jar
+2018-05-03 19:29:43,732 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.jar
+2018-05-03 19:29:44,024 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.jar
+2018-05-03 19:29:45,711 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.jar
+2018-05-03 19:29:46,006 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.jar
+2018-05-03 19:31:53,138 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.jar
+2018-05-03 19:31:53,466 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+2018-05-03 19:31:59,367 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+2018-05-03 19:31:59,648 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.jar
+2018-05-03 19:32:38,143 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/23.0/guava-23.0.jar
+2018-05-03 19:32:38,440 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar
+2018-05-03 19:32:39,112 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.0.18/error_prone_annotations-2.0.18.jar
+2018-05-03 19:32:41,537 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:32:41,537 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:32:41,537 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:32:41,537 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:32:42,138 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\hybridFramework\uiAutomation
+2018-05-03 19:32:42,138 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-03 19:32:43,192 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:32:43,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:32:43,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:32:43,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:32:43,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:32:44,998 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:32:44,998 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:32:44,998 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:32:44,998 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:33:02,966 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-03 19:33:03,248 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.automation:uiAutomation:0.0.1-SNAPSHOT @ D:\hybridFramework\uiAutomation\pom.xml.
+2018-05-03 19:33:03,341 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:33:03,498 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uiAutomation/src/main/java
+2018-05-03 19:33:03,498 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uiAutomation/src/test/java
+2018-05-03 19:33:03,607 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-05-03 19:33:03,958 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-03 19:33:03,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:33:03,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:33:03,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:33:03,989 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:47:46,835 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:47:46,836 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:47:46,838 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:47:46,838 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:52:20,908 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:52:20,908 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:52:20,908 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:52:20,908 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:52:38,631 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:52:38,631 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:52:38,631 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:52:38,631 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:55:11,881 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:55:11,881 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:55:11,881 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:55:11,881 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:55:44,562 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:55:44,562 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:55:44,562 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:55:44,562 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:55:45,564 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:55:45,564 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:55:45,564 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:55:45,564 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-03 19:56:38,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:56:38,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-03 19:56:38,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-03 19:56:38,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:40:39,834 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 10:40:54,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:40:54,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:40:54,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:40:54,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:41:49,444 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:41:49,444 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:41:49,444 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:41:49,444 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:44:08,542 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:44:08,542 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:44:08,542 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:44:08,542 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:47:47,704 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:47:47,704 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:47:47,704 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:47:47,704 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:51:02,484 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:51:02,484 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:51:02,484 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:51:02,484 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:54:10,169 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:54:10,169 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:54:10,169 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:54:10,169 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 10:55:28,180 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:55:28,180 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 10:55:28,195 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 10:55:28,195 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 11:07:37,555 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:07:37,555 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 11:07:37,557 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:07:37,557 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 11:07:59,003 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:07:59,003 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 11:07:59,004 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:07:59,004 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 11:49:00,897 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:49:00,898 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 11:49:00,899 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:49:00,899 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 11:51:33,951 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:51:33,951 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 11:51:33,952 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:51:33,952 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 11:52:16,971 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:52:16,971 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 11:52:16,972 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 11:52:16,972 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:33:46,792 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.automation:uiAutomation:0.0.1-SNAPSHOT @ D:\hybridFramework\uiAutomation\pom.xml.
+2018-05-04 12:33:48,823 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 12:33:52,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:33:52,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:33:52,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:33:52,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:33:54,245 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 12:33:54,277 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:33:54,277 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:33:54,277 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:33:54,277 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:33:55,198 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\hybridFramework\uiAutomation
+2018-05-04 12:33:55,198 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-04 12:34:02,103 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:34:02,103 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:34:02,119 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:34:02,119 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:43:13,297 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-04 12:43:13,750 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.automation:uiAutomation:0.0.1-SNAPSHOT @ D:\hybridFramework\uiAutomation\pom.xml.
+2018-05-04 12:43:13,860 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 12:43:14,125 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uiAutomation/src/main/java
+2018-05-04 12:43:14,125 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /uiAutomation/src/test/java
+2018-05-04 12:43:14,297 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-04 12:43:14,750 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 12:43:14,781 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:43:14,781 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:43:14,781 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:43:14,781 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:44:10,244 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:44:10,244 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:44:10,244 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:44:10,244 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:44:17,885 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:44:17,885 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:44:17,885 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:44:17,885 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:45:49,523 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:45:49,523 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:45:49,523 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:45:49,523 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:45:56,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:45:56,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:45:56,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:45:56,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:46:52,256 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:46:52,256 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:46:52,256 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:46:52,256 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:55:50,440 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:55:50,440 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:55:50,456 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:55:50,456 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:59:10,830 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:59:10,830 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:59:10,830 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:59:10,830 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 12:59:56,678 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:59:56,678 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 12:59:56,678 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 12:59:56,678 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:00:03,695 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:00:03,695 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:00:03,695 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:00:03,695 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:02:11,060 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:02:11,060 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:02:11,060 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:02:11,060 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:03:20,838 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:03:20,838 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:03:20,838 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:03:20,838 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:10:16,722 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 13:10:16,972 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:10:16,972 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:10:16,972 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:10:16,972 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:15:58,483 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:15:58,483 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:15:58,483 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:15:58,483 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:17:26,626 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:17:26,626 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:17:26,626 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:17:26,626 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:17:49,783 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:17:49,783 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:17:49,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:17:49,799 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:20:20,894 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:20:20,894 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:20:20,894 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:20:20,894 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 13:20:57,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:20:57,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 13:20:57,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 13:20:57,164 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 15:31:05,395 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 15:31:05,395 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 15:31:05,397 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 15:31:05,397 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 15:44:09,628 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 15:44:09,628 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 15:44:09,629 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 15:44:09,629 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 15:45:05,127 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 15:45:05,127 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 15:45:05,129 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 15:45:05,129 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:03:15,027 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:03:15,028 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:03:15,029 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:03:15,029 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:05:05,745 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:05:05,746 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:05:05,746 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:05:05,746 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:11:11,956 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:11:11,956 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:11:11,957 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:11:11,957 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:11:27,392 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:11:27,392 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:11:27,479 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:11:27,480 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:11:55,841 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:11:55,842 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:11:55,844 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:11:55,844 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:13:09,643 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:13:09,643 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:13:09,644 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:13:09,645 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:13:14,500 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:13:14,500 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:13:14,522 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:13:14,522 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:20:43,800 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:20:43,800 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:20:43,802 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:20:43,802 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:20:48,097 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:20:48,097 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:20:48,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:20:48,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:21:41,577 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:21:41,577 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:21:41,578 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:21:41,578 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:21:46,885 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:21:46,885 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:21:46,887 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:21:46,887 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:22:18,098 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:22:18,098 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:22:18,098 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:22:18,099 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:22:20,616 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:22:20,616 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:22:20,617 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:22:20,618 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:25:24,404 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:25:24,404 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:25:24,405 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:25:24,405 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:26:01,877 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:26:01,877 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:26:01,880 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:26:01,880 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:26:13,917 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:26:13,917 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:26:13,919 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:26:13,919 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:27:59,535 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:27:59,535 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:27:59,536 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:27:59,536 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:28:04,589 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:28:04,589 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:28:04,590 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:28:04,590 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:29:11,014 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:29:11,014 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:29:11,016 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:29:11,016 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:29:26,594 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:29:26,595 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:29:26,595 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:29:26,595 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:36:26,088 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:26,088 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:36:26,089 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:26,089 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:36:28,787 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:28,787 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:36:28,787 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:28,788 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:36:31,441 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:31,441 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:36:31,442 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:31,442 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:36:54,078 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:54,078 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:36:54,078 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:54,078 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:36:56,007 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:56,007 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:36:56,008 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:36:56,008 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:43:06,619 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:06,619 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:43:06,620 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:06,620 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:43:09,204 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:09,204 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:43:09,206 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:09,206 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:43:14,998 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:14,998 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:43:14,999 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:14,999 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:43:17,673 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:17,673 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:43:17,674 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:17,675 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:43:22,656 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:22,657 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:43:22,658 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:22,658 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:43:44,217 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:44,218 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:43:44,219 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:43:44,219 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:44:03,400 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:44:03,400 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:44:03,401 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:44:03,401 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:44:20,028 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:44:20,028 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:44:20,031 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:44:20,031 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:48:28,155 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:48:28,156 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:48:28,157 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:48:28,157 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:48:30,861 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:48:30,862 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:48:30,862 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:48:30,862 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:49:01,137 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:49:01,137 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:49:01,139 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:49:01,139 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:49:14,761 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:49:14,761 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:49:14,763 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:49:14,763 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:51:40,884 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:51:40,884 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:51:40,885 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:51:40,885 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:51:43,278 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:51:43,278 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:51:43,280 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:51:43,280 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:52:43,767 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:52:43,768 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:52:43,768 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:52:43,768 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:52:49,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:52:49,866 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:52:49,870 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:52:49,870 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:53:21,088 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:53:21,088 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:53:21,090 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:53:21,090 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:54:09,829 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:54:09,829 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:54:09,829 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:54:09,830 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:54:12,574 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:54:12,574 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:54:12,575 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:54:12,575 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:54:15,138 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:54:15,138 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:54:15,140 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:54:15,140 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:55:06,851 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:06,851 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:55:06,852 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:06,852 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:55:14,526 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:14,526 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:55:14,527 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:14,528 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:55:17,447 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:17,447 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:55:17,448 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:17,449 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 16:55:39,141 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:39,141 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 16:55:39,143 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 16:55:39,143 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:04:57,679 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 17:04:58,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:04:58,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:04:58,741 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:04:58,741 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:05:22,250 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:05:22,251 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:05:22,252 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:05:22,252 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:11:25,686 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:11:25,686 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:11:25,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:11:25,687 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:13:01,535 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:13:01,535 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:13:01,536 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:13:01,536 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:13:11,311 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:13:11,311 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:13:11,312 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:13:11,312 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:13:22,302 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:13:22,303 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:13:22,303 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:13:22,303 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:17:36,838 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:17:36,839 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:17:36,840 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:17:36,841 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:17:50,637 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:17:50,638 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:17:50,639 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:17:50,639 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:19:44,873 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:19:44,873 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:19:44,875 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:19:44,875 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:20:10,118 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:20:10,119 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:20:10,120 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:20:10,120 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:20:22,296 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:20:22,296 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:20:22,297 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:20:22,297 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:20:23,480 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:20:23,480 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:20:23,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:20:23,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:21:05,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:21:05,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:21:05,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:21:05,761 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:21:09,799 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:21:09,799 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:21:09,803 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:21:09,803 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:27:19,228 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:27:19,228 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:27:19,228 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:27:19,228 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:27:20,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:27:20,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:27:20,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:27:20,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:30:45,912 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:30:45,912 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:30:45,912 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:30:45,912 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:30:47,023 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:30:47,023 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:30:47,023 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:30:47,023 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:32:14,255 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:32:14,255 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:32:14,255 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:32:14,255 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:37:53,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:37:53,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:37:53,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:37:53,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:38:05,956 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:38:05,956 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:38:05,972 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:38:05,972 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:40:56,738 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:40:56,738 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:40:56,738 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:40:56,738 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:43:13,929 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:43:13,929 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:43:13,929 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:43:13,929 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:45:43,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:45:43,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:45:43,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:45:43,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:47:40,767 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:47:40,767 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:47:40,767 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:47:40,767 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:48:13,795 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:48:13,795 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:48:13,795 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:48:13,795 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:48:40,571 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:48:40,571 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:48:40,571 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:48:40,571 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:49:55,881 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:49:55,881 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:49:55,881 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:49:55,881 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:50:32,693 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 17:50:33,382 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:50:33,382 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:50:33,383 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:50:33,384 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:59:10,963 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:10,963 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:59:10,964 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:10,964 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:59:19,995 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:19,996 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:59:19,997 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:19,997 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:59:46,984 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:46,985 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:59:46,987 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:46,987 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 17:59:56,110 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:56,110 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 17:59:56,112 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 17:59:56,112 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:00:02,128 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:00:02,128 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:00:02,129 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:00:02,129 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:00:49,240 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:00:49,240 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:00:49,241 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:00:49,241 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:03:34,225 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:03:34,225 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:03:34,226 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:03:34,226 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:06:53,891 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-04 18:07:38,221 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:07:38,221 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:07:38,222 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:07:38,222 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:07:58,021 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:07:58,021 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:07:58,023 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:07:58,023 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:08:08,479 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:08,479 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:08:08,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:08,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:08:17,366 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:17,366 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:08:17,367 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:17,367 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:08:20,543 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:20,543 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:08:20,544 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:20,545 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:08:48,903 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:48,904 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:08:48,905 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:08:48,905 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:09:31,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:09:31,629 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:09:31,630 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:09:31,631 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:11:18,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:18,175 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:11:18,177 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:18,177 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:11:23,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:23,982 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:11:23,983 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:23,983 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:11:43,596 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:43,596 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:11:43,598 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:43,598 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:11:48,792 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:48,793 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:11:48,794 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:48,794 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:11:54,676 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:54,676 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:11:54,677 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:11:54,678 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:12:02,446 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:12:02,446 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:12:02,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:12:02,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-04 18:12:07,275 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:12:07,275 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-04 18:12:07,277 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-04 18:12:07,277 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 10:46:36,262 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-05-07 10:47:08,125 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 10:47:08,125 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 10:47:08,129 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 10:47:08,129 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 10:50:30,730 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 10:50:30,731 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 10:50:30,733 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 10:50:30,733 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 10:50:59,279 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 10:50:59,280 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 10:50:59,281 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 10:50:59,281 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:08:31,289 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:08:31,289 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:08:31,290 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:08:31,290 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:08:50,603 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:08:50,604 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:08:50,604 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:08:50,605 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:08:51,745 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:08:51,746 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:08:51,748 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:08:51,748 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:09:40,950 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:09:40,950 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:09:40,951 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:09:40,951 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:09:42,077 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:09:42,077 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:09:42,079 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:09:42,079 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:10:26,415 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:10:26,415 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:10:26,416 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:10:26,416 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:11:24,602 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:11:24,602 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:11:24,602 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:11:24,603 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 11:11:42,035 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:11:42,036 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 11:11:42,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 11:11:42,039 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
+2018-05-07 12:39:46,208 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 12:39:46,208 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\main\resources
+2018-05-07 12:39:46,208 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 12:39:46,208 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\hybridFramework\uiAutomation\src\test\resources
