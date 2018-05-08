@@ -5,7 +5,10 @@
     <classes>
       <class name="signInAction.testpractis">
         <methods>
-          <include name="testingDataProvider"/>
+          <include name="test1"/>
+          <include name="testBeforeClass"/>
+          <include name="test2"/>
+          <include name="test4"/>
         </methods>
       </class> <!-- signInAction.testpractis -->
     </classes>

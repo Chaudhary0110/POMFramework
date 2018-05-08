@@ -1,0 +1,228 @@
+
+<a href="/projects/" title="Selenium Projects">Projects</a>
+
+//tagName[@attributeName = 'attributeValue']
+
+Xpath 
+
+//a[@href = '/projects/']
+//a[@title = 'Selenium Projects']
+
+CSS
+
+a[href = '/projects/']
+a[title = 'Selenium Projects']
+
+
+//a[@contans(text(), 'Downloads')]
+
+<li id="menu_documentation">
+<a href="/docs/" title="Technical references and guides">Documentation</a></li>
+
+//li[@id = 'menu_documentation']/a
+//a[@href='/docs/']
+//a[@title='Technical references and guides']
+//a[contains(text(), 'Documentation')]
+
+li[id = 'menu_documentation']>a
+a[href='/docs/']
+a[title='Technical references and guides']
+a[contains(text(), 'Documentation')]
+
+
+
+<h2>What is Selenium?</h2>
+
+//h2[contains(text) , 'What is Selenium']
+
+
+<input type="text" id="q" name="q" accesskey="s" size="30">
+
+
+//input[@id='q']
+//input[@name='q']
+
+
+#q
+input[id='q']
+input[name='q']
+
+<input type="submit" id="submit" value="Go">
+
+//input[@id = 'submit']
+//input[@id = 'submit' and @type='submit'] 
+
+#submit
+
+input[id = 'submit'][type='submit'] 
+
+
+<h3>Selenium WebDriver</h3>
+
+
+Git Commands ----------*********-------------
+
+1.	Open Git Bash.
+2.	Change the current working directory to your local project.
+3.	Initialize the local directory as a Git repository – git init
+4.	Add the files – git add . (git add file_name)
+5.	Commit the files – git commit –m “First Commit”
+6.	Add the URL for the remote repository – git remote add origin url 
+7.	Check existing remote - git remote –v
+8.	Push the commit – git push origin master  
+9.	Set the URL - git remote set-url origin url
+10.	Remove remote – git remove rm origin
+11. Pull updated project from repository - git pull
+12. Create branch - git checkout -b "Amit_local"
+13. To check all the branch - git branch
+14. Push the commit on local branch -  git push --set-upstream origin Amit_local
+15. Check the status - git status
+
+
+*/ ----- Data Provider --------
+
+
+public class testpractis {
+	
+	@Test (dataProvider = "UserNamePassword") 
+	//@Parameters ({"userName","passWord"})
+	public void testingDataProvider(String userName, String passWord){
+			
+		System.out.println("userName : "+userName);
+		System.out.println("passWord : "+passWord);
+		
+	}
+	
+	public String[][] getExcelData(String fileName, String sheetName) {
+		
+		String[][] ar = null;
+		
+		try {
+			
+			FileInputStream fs = new FileInputStream(new File(fileName));
+			XSSFWorkbook wb = new XSSFWorkbook(fs);
+			XSSFSheet sh = wb.getSheet(sheetName);
+
+			int totalNoOfRows = sh.getLastRowNum()+1;
+			int totalNoOfCols = sh.getRow(0).getLastCellNum();
+			
+			ar = new String[totalNoOfRows-1][totalNoOfCols];
+			
+			for (int i= 1 ; i < totalNoOfRows; i++) {
+				XSSFRow rows = sh.getRow(i);
+				for (int j=0; j < totalNoOfCols; j++) {
+					XSSFCell cell = rows.getCell(j);
+					ar[i-1][j] = cell.getStringCellValue();
+				}
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		} 
+		
+		return ar;
+	}
+	
+	@DataProvider (name = "UserNamePassword")
+	public Object[][] getData()	{
+	
+		Object[][] data = getExcelData("\\D:\\TestPractisData.xlsx","LoginTestData"); 	
+		
+		/*Object[][] data = new Object[3][2];
+
+		data[0][0] ="sampleuser1";
+		data[0][1] = "abcdef";
+
+		data[1][0] ="testuser2";
+		data[1][1] = "zxcvb";
+	
+		data[2][0] ="guestuser3";
+		data[2][1] = "pass123";*/
+
+	return data;
+	
+	}
+}
+
+
+----- Properties file code ----
+
+public class testpractis {
+	
+	Properties property ;
+	
+	public void loadData() throws IOException{
+		
+		property = new Properties();
+		
+		// Load first property file
+		
+		File file = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\configTest.properties");
+		FileReader f = new FileReader(file);
+		property.load(f);
+		
+		// Load second property file
+		
+		File file1 = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\config.properties");
+		FileReader f1 = new FileReader(file1);
+		property.load(f1);
+		
+	}
+	
+	public String getObject(String data) throws IOException{
+		loadData();
+		return property.getProperty(data);
+	}
+	
+	@Test
+	public void getProperties() throws IOException{
+		System.out.println(getObject("Name"));
+		System.out.println(getObject("Place"));
+		System.out.println(getObject("url"));
+		System.out.println(getObject("browser"));
+	}
+	
+}
+
+
+------***************--TestNG code ******************------
+	
+	********** groups in testNG ************
+
+public class testpractis {
+	
+	@BeforeClass(groups = {"regression", "sainity" , "database"})
+	public void testBeforeClass() {	System.out.println("Before Class"); }
+	
+	@Test(groups = {"regression", "sainity"})
+	public void test1() {	System.out.println("regression & sainity"); }
+	
+	@Test(groups = {"sainity", "database"})
+	public void test2() {	System.out.println("database & sainity"); }
+	
+	@Test(groups = {"regression"})
+	public void test3() {	System.out.println("regression"); }
+	
+	@Test(groups = {"sainity"})
+	public void test4() {	System.out.println("sainity");}
+}
+
+
+<suite name = "test DataProvider Xml" >
+<test name = "testing DataProvide Xml">
+
+	<groups>
+		<run>
+			<include name = "sainity" />	
+		</run>
+	</groups>
+
+	<classes>
+		<class name = "signInAction.testpractis" /> 
+	</classes>
+	
+</test>
+</suite>
+
+
+		*********** dependsOn in testNG ************

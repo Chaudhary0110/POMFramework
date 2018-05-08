@@ -1,40 +1,43 @@
 package signInAction;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.Properties;
 
+import junit.framework.Assert;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Optional;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class testpractis {
 	
-	Properties property ;
+	@BeforeClass(groups = {"regression", "sainity" , "database"})
+	public void testBeforeClass() {	System.out.println("Before Class"); }
 	
-	public void loadData() throws IOException{
-		
-		property = new Properties();
-		File file = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\configTest.properties");
-		FileReader f = new FileReader(file);
-		property.load(f);
-		
-		File file1 = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\config.properties");
-		FileReader f1 = new FileReader(file1);
-		property.load(f1);
+	@Test(groups = {"regression", "sainity"})
+	public void test1() {	System.out.println("regression & sainity"); }
+	
+	@Test(groups = {"sainity", "database"})
+	public void test2() {	System.out.println("database & sainity"); }
+	
+	@Test(groups = {"regression"})
+	public void test3() {	System.out.println("regression"); }
+	
+	@Test(groups = {"sainity"})
+	public void test4() {	System.out.println("sainity");}
+	
+	@Test(dependsOnMethods = {"test1", "test2"})
+	public void depends() {	System.out.println("testing Dependson");}
+	
+	@Test (groups = {"sainity"})
+	@Parameters ({"userName","passWord"})
+	public void testingDataProvider(@Optional("user") String userName, @Optional("user") String passWord){
+			
+		System.out.println("userName : "+userName);
+		System.out.println("passWord : "+passWord);
 		
 	}
 	
-	public String getObject(String data) throws IOException{
-		loadData();
-		return property.getProperty(data);
-	}
-	
-	@Test
-	public void getProperties() throws IOException{
-		System.out.println(getObject("Name"));
-		System.out.println(getObject("Place"));
-		System.out.println(getObject("url"));
-		System.out.println(getObject("browser"));
-	}
+	@Test(enabled = false)
+	public void enabletest() {	System.out.println("testing enable disable");}
 	
 }

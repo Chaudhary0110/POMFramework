@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "test DataProvider Xml" >
+
+<test name = "testing DataProvide Xml">
+
+	<groups>
+		<run>
+			<include name = "sainity" />	
+		</run>
+	</groups>
+
+	<parameter name = "userName" value = "user" />
+	<parameter name = "password" value = "pass" />
+
+	<classes>
+		<class name = "signInAction.testpractis" /> 
+	</classes>
+	
+</test>
+</suite>

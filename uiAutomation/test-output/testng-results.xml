@@ -1,16 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="39" started-at="2018-05-07T12:25:21Z" finished-at="2018-05-07T12:25:21Z">
+  <suite name="Default suite" duration-ms="54" started-at="2018-05-08T10:40:50Z" finished-at="2018-05-08T10:40:50Z">
     <groups>
+      <group name="database">
+        <method signature="testpractis.test2()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test2" class="signInAction.testpractis"/>
+      </group> <!-- database -->
+      <group name="regression">
+        <method signature="testpractis.test1()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test1" class="signInAction.testpractis"/>
+        <method signature="testpractis.test3()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test3" class="signInAction.testpractis"/>
+      </group> <!-- regression -->
+      <group name="sainity">
+        <method signature="testpractis.test1()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test1" class="signInAction.testpractis"/>
+        <method signature="testpractis.test2()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test2" class="signInAction.testpractis"/>
+        <method signature="testpractis.testingDataProvider(java.lang.String, java.lang.String)[pri:0, instance:signInAction.testpractis@bdf5e5]" name="testingDataProvider" class="signInAction.testpractis"/>
+        <method signature="testpractis.test4()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test4" class="signInAction.testpractis"/>
+      </group> <!-- sainity -->
     </groups>
-    <test name="Default test" duration-ms="39" started-at="2018-05-07T12:25:21Z" finished-at="2018-05-07T12:25:21Z">
+    <test name="Default test" duration-ms="54" started-at="2018-05-08T10:40:50Z" finished-at="2018-05-08T10:40:50Z">
       <class name="signInAction.testpractis">
-        <test-method status="PASS" signature="getProperties()[pri:0, instance:signInAction.testpractis@19f99ea]" name="getProperties" duration-ms="10" started-at="2018-05-07T17:55:21Z" finished-at="2018-05-07T17:55:21Z">
+        <test-method status="PASS" signature="testBeforeClass()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="testBeforeClass" is-config="true" duration-ms="11" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getProperties -->
+        </test-method> <!-- testBeforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test1" duration-ms="4" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test2" duration-ms="2" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="testingDataProvider(java.lang.String, java.lang.String)[pri:0, instance:signInAction.testpractis@bdf5e5]" name="testingDataProvider" duration-ms="1" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingDataProvider -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test3" duration-ms="1" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test4" duration-ms="1" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="depends()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="depends" duration-ms="1" started-at="2018-05-08T16:10:50Z" depends-on-methods="signInAction.testpractis.test2, signInAction.testpractis.test1" finished-at="2018-05-08T16:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- depends -->
       </class> <!-- signInAction.testpractis -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

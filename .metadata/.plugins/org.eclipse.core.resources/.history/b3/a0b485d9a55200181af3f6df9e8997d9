@@ -1,0 +1,24 @@
+package signInAction;
+
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class testpractis {
+	
+	
+	@BeforeClass(groups = {"regression", "sainity" , "database"})
+	public void testBeforeClass() {	System.out.println("Before Class"); }
+	
+	@Test
+	public void test1() {	System.out.println("regression & sainity"); }
+	
+	@Test(dependsOnMethods = {"test1"})
+	public void test2() {	System.out.println("database & sainity"); }
+	
+	@Test
+	public void test3() {	System.out.println("regression"); }
+	
+	@Test(dependsOnMethods = {"test1", "test2"})
+	public void test4() {	System.out.println("sainity");}
+}

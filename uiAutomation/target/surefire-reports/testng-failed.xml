@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression Suite]">
+  <test verbose="0" name="Login test Firefox(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="signInAction.TC_Login">
+        <methods>
+          <include name="startTest"/>
+          <include name="ExamConfigMasterTest" invocation-numbers="0"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- signInAction.TC_Login -->
+    </classes>
+  </test> <!-- Login test Firefox(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

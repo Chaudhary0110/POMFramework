@@ -1180,3 +1180,74 @@ Session ID: 67c6d9d0-3f09-41db-addf-da7855f82877
 2018-05-04 17:50:05 INFO  ExaminationAndResult:82 - Mouse Hover to Examination Master
 2018-05-04 17:50:05 INFO  ExaminationAndResult:82 - Clicked on Exam Config Master
 2018-05-04 18:01:30 INFO  TC_Login:192 - Navigating to the : http://52.172.14.165/JNVUIUMS
+2018-05-07 18:08:03 INFO  TC_Login:192 - Creating the object of : chrome
+2018-05-07 18:08:06 INFO  TC_Login:192 - Navigating to the : http://52.172.14.165/JNVUIUMS
+2018-05-07 18:08:10 INFO  HomePage:39 - Clicked on IUMS Login link
+2018-05-07 18:08:10 INFO  TC_Login:192 - Switched to new window
+2018-05-07 18:08:11 INFO  LoginPage:43 - Entered userName is : erp@admin
+2018-05-07 18:08:11 INFO  LoginPage:43 - Entered password is : Jnvu@)!^
+2018-05-07 18:08:11 INFO  TC_Login:192 - User logged in to IUMS
+2018-05-07 18:08:14 INFO  MyModules:44 - Clicked on Examination & Result Module
+2018-05-07 18:08:14 INFO  ExaminationAndResult:82 - Mouse Hover to Examination Master
+2018-05-07 18:08:14 INFO  ExaminationAndResult:82 - Clicked on Exam Config Master
+2018-05-07 18:08:15 INFO  ExamConfigurationMaster:95 - Session Selected
+2018-05-07 18:08:15 INFO  TC_Login:192 - Switched to calendar frame
+2018-05-07 18:08:16 INFO  TC_Login:192 - Today : May 7, 2018 is selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - From Month Selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - From Year Selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - To Month Selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - To Year Selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - Exam Category Selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - Is Active Selected
+2018-05-07 18:08:16 INFO  ExamConfigurationMaster:95 - Clicked on Save Button
+2018-05-07 18:08:27 INFO  TC_Login:192 - Driver session closed
+2018-05-07 18:31:32 INFO  TC_Login:192 - Creating the object of : chrome
+2018-05-07 18:31:34 INFO  TC_Login:192 - Navigating to the : http://52.172.14.165/JNVUIUMS
+2018-05-07 18:31:39 INFO  HomePage:39 - Clicked on IUMS Login link
+2018-05-07 18:31:39 INFO  TC_Login:192 - Switched to new window
+2018-05-07 18:31:40 INFO  LoginPage:43 - Entered userName is : erp@admin
+2018-05-07 18:31:40 INFO  LoginPage:43 - Entered password is : Jnvu@)!^
+2018-05-07 18:31:40 INFO  TC_Login:192 - User logged in to IUMS
+2018-05-07 18:31:42 INFO  MyModules:44 - Clicked on Examination & Result Module
+2018-05-07 18:31:42 INFO  ExaminationAndResult:82 - Mouse Hover to Examination Master
+2018-05-07 18:31:42 INFO  ExaminationAndResult:82 - Clicked on Exam Config Master
+2018-05-07 18:31:43 INFO  ExamConfigurationMaster:95 - Session Selected
+2018-05-07 18:31:44 INFO  TC_Login:192 - Switched to calendar frame
+2018-05-07 18:31:44 INFO  TC_Login:192 - Today : May 7, 2018 is selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - From Month Selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - From Year Selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - To Month Selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - To Year Selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - Exam Category Selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - Is Active Selected
+2018-05-07 18:31:44 INFO  ExamConfigurationMaster:95 - Clicked on Save Button
+2018-05-07 18:31:55 INFO  TC_Login:192 - Driver session closed
+2018-05-07 18:33:03 INFO  TC_Login:192 - Creating the object of : chrome
+2018-05-07 18:33:05 INFO  TC_Login:192 - Navigating to the : http://52.172.14.165/JNVUIUMS
+2018-05-07 18:33:08 INFO  HomePage:39 - Clicked on IUMS Login link
+2018-05-07 18:33:08 INFO  TC_Login:192 - Switched to new window
+2018-05-07 18:33:09 INFO  LoginPage:43 - Entered userName is : erp@admin
+2018-05-07 18:33:09 INFO  LoginPage:43 - Entered password is : Jnvu@)!^
+2018-05-07 18:33:10 INFO  TC_Login:192 - User logged in to IUMS
+2018-05-07 18:33:19 INFO  TC_Login:192 - Driver session closed
+2018-05-07 18:33:30 INFO  TC_Login:192 - Creating the object of : chrome
+2018-05-07 18:33:32 INFO  TC_Login:192 - Navigating to the : http://52.172.14.165/JNVUIUMS
+2018-05-07 18:33:35 INFO  HomePage:39 - Clicked on IUMS Login link
+2018-05-07 18:33:35 INFO  TC_Login:192 - Switched to new window
+2018-05-07 18:33:36 INFO  LoginPage:43 - Entered userName is : erp@admin
+2018-05-07 18:33:36 INFO  LoginPage:43 - Entered password is : Jnvu@)!^
+2018-05-07 18:33:37 INFO  TC_Login:192 - User logged in to IUMS
+2018-05-07 18:33:37 INFO  MyModules:44 - Clicked on Examination & Result Module
+2018-05-07 18:33:37 INFO  ExaminationAndResult:82 - Mouse Hover to Examination Master
+2018-05-07 18:33:37 INFO  ExaminationAndResult:82 - Clicked on Exam Config Master
+2018-05-07 18:33:38 INFO  ExamConfigurationMaster:95 - Session Selected
+2018-05-07 18:33:38 INFO  TC_Login:192 - Switched to calendar frame
+2018-05-07 18:33:38 INFO  TC_Login:192 - Today : May 7, 2018 is selected
+2018-05-07 18:33:38 INFO  ExamConfigurationMaster:95 - From Month Selected
+2018-05-07 18:33:38 INFO  ExamConfigurationMaster:95 - From Year Selected
+2018-05-07 18:33:38 INFO  ExamConfigurationMaster:95 - To Month Selected
+2018-05-07 18:33:38 INFO  ExamConfigurationMaster:95 - To Year Selected
+2018-05-07 18:33:39 INFO  ExamConfigurationMaster:95 - Exam Category Selected
+2018-05-07 18:33:39 INFO  ExamConfigurationMaster:95 - Is Active Selected
+2018-05-07 18:33:39 INFO  ExamConfigurationMaster:95 - Clicked on Save Button
+2018-05-07 18:33:49 INFO  TC_Login:192 - Driver session closed

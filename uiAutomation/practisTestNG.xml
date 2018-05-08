@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name = "test DataProvider Xml" parallel = "true" thread-count="3" preserve-order = "true">
+<suite name = "test DataProvider Xml" >
+
+	<parameter name = "userName" value = "user" />
+	<parameter name = "passWord" value = "pass" />
 
 <test name = "testing DataProvide Xml">
 
-	<parameter name = "userName" value = "amit" />
-	<parameter name = "passWord" value = "amit@123" />
+	<groups>
+		<run>
+			<include name = "sainity" />	
+		</run>
+	</groups>
 
 	<classes>
 		<class name = "signInAction.testpractis" /> 
