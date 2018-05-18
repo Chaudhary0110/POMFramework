@@ -1,0 +1,32 @@
+package practisJava;
+
+ class baseJava {
+
+	int test() {	System.out.println("Parent class method");
+	return 0;}
+		
+}
+
+ 
+ class childJava extends baseJava{
+
+	int test() {	System.out.println("child class method");
+	return (Integer) null;}
+		
+}
+
+public class PractisJava extends childJava{
+	
+	 int test() {	System.out.println("Pactis class method");
+	return (Integer) null;}
+	
+	public static void main (String Args[]){
+		
+		baseJava pj = new baseJava();
+		childJava p = new childJava();
+		PractisJava j = new PractisJava();
+		p.test();
+		
+	}
+
+}

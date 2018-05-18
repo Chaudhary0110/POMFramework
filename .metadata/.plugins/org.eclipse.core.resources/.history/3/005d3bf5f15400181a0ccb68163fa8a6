@@ -1,0 +1,39 @@
+package practisJava;
+
+ interface BaseJava {
+
+		 static void test1() {	System.out.println("Parent class method");}
+		 void test4();
+			
+}
+
+ 
+abstract class childJava implements BaseJava {
+
+	 public void test2() {	System.out.println("child class method");}
+			
+}
+
+public class PractisJava extends childJava{
+	
+	  public void test3() {	System.out.println("Pactis class method");}
+	
+	
+	public static void main (String Args[]){
+		
+		PractisJava p = new PractisJava();
+		
+		baseJava.test1();
+		p.test2();
+		p.test3();
+	}
+
+
+	@Override
+	public void test4() {
+		// TODO Auto-generated method stub
+		
+	}
+}
+
+

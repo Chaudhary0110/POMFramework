@@ -1,0 +1,34 @@
+package practisJava;
+
+ interface baseJava {
+
+	 final public static int i = 10 ;
+	 static final public int j = 20 ; 
+	 int k = 40; 
+	 
+	 
+	 
+	 default void test1() {	System.out.println("Parent class method");}
+			
+}
+
+ 
+class childJava implements baseJava {
+
+	 public void test1() {	System.out.println("child class method");}
+			
+}
+
+public class PractisJava extends childJava{
+	
+	  public void test1() {	System.out.println("Pactis class method");}
+	
+	
+	public static void main (String Args[]){
+		
+		PractisJava p = new PractisJava();
+		p.test1();
+	}
+}
+
+

@@ -2,27 +2,14 @@ package testBase;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.lang.reflect.Method;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Iterator;
 import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -39,7 +26,18 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
+import org.testng.ITestResult;
 import org.testng.Reporter;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Parameters;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
 
 import customListner.WebEventListener;
 import utilities.Excel_Reader;
@@ -53,10 +51,13 @@ public class TestBase {
 	public EventFiringWebDriver driver;
 	public WebEventListener eventListener;
 	public Properties OR;
+	public static ExtentReports extent;
+	public static ExtentTest test;
+	
 	
 	Excel_Reader excel;
 	
-	
+		
 	public void init(String browser) throws IOException{
 		loadData();
 		String log4jconfpath = "log4j.properties";
@@ -143,10 +144,64 @@ public class TestBase {
 		}
 	}
 	
+	
+	public String captureScreen(String name) {
+		
+		if (name == "")
+			name = "Blank";
+		
+		File destFile = null ;
+		
+		Calendar calendar = Calendar.getInstance();
+		SimpleDateFormat formater = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
+		
+		File srcFile = ((TakesScreenshot) dr).getScreenshotAs(OutputType.FILE);
+		try{		
+			String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\Screenshot\\ExtentReports\\";
+			destFile = new File((String) reportDirectory + name + "_" + formater.format(calendar.getTime())+".png");
+			FileUtils.copyFile(srcFile, destFile);
+			Reporter.log("<a href ='" + destFile.getAbsolutePath() + "'> <img src ='" + destFile.getAbsolutePath() + "' hight =100 width =100 /> </a>");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		return destFile.toString();
+	}
+
+	static {
+		
+		Calendar calendar = Calendar.getInstance();
+		SimpleDateFormat formater = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
+		extent = new ExtentReports(System.getProperty("user.dir")+"\\Screenshot\\ExtentReports\\"+formater.format(calendar.getTime()) + ".html", false);
+	}
+	
+	public void getResult(ITestResult result){
+		
+		if(result.getStatus() == ITestResult.SUCCESS)
+			test.log(LogStatus.PASS, result.getName() + "test is pass");
+		else if(result.getStatus() == ITestResult.FAILURE){
+			test.log(LogStatus.ERROR, result.getName() + "test is failed and reasion is " + result.getThrowable());
+			test.log(LogStatus.FAIL, test.addScreenCapture(captureScreen("")));}
+		else if(result.getStatus() == ITestResult.SKIP)
+			test.log(LogStatus.SKIP, result.getName() + "test is skipped and reasion is " + result.getThrowable());
+		if(result.getStatus() == ITestResult.STARTED)
+			test.log(LogStatus.INFO, result.getName() + "test is started");
+	}
+	
+	
+
 	public Iterator<String> getAllWindows(){
 		Set<String> windows = dr.getWindowHandles();
 		Iterator<String> itr = windows.iterator();
 		return itr;
+	}
+	
+	public void closeBrowser(){
+		
+		dr.quit();
+		log("Driver session closed");
+		extent.endTest(test);
+		extent.flush();
 	}
 	
 	public void log(String data){
@@ -154,5 +209,42 @@ public class TestBase {
 		Reporter.log(data);
 	}
 
+	@BeforeMethod
+	@Parameters("browser")
+	public void beforeMethod(Method result, String browser) throws IOException{
+		
+		init(browser);
+		test = extent.startTest(result.getName());
+		test.log(LogStatus.INFO, result.getName() + " test started");
+		
+	}
+	
+	@AfterMethod
+	public void afterMethod(ITestResult result){
+	
+		getResult(result);
+		closeBrowser();
+	}
+	
+	/*@BeforeTest
+	@Parameters("browser")
+	public void startTest(String browser) throws IOException{
+		
+		init(browser);
+	}
 
+	
+	@AfterTest
+	public void endTest(){
+		
+		closeBrowser();
+	}*/
+	
+	@DataProvider (name = "loginData")
+	public String [][] getTestData(){
+		String[][] idPassword = getData("TestData.xlsx", "LoginTestData");
+		return idPassword;
+	}
+	 
+			
 }

@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [test DataProvider Xml]">
-  <parameter name="password" value="pass"/>
-  <parameter name="userName" value="user"/>
-  <test name="testing DataProvide Xml(failed)">
-    <groups>
-      <run>
-        <include name="sainity"/>
-      </run>
-    </groups>
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <test name="Login test chrome(failed)">
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="signInAction.testpractis">
+      <class name="ExaminationAndResultModule.ExamConfigMaster">
         <methods>
-          <include name="testingDataProvider"/>
-          <include name="testBeforeClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="ExamConfigMasterTest" invocation-numbers="0"/>
         </methods>
-      </class> <!-- signInAction.testpractis -->
+      </class> <!-- ExaminationAndResultModule.ExamConfigMaster -->
+      <class name="ExaminationAndResultModule.SanityTest">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="examinationResultSanityTest" invocation-numbers="0"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- ExaminationAndResultModule.SanityTest -->
     </classes>
-  </test> <!-- testing DataProvide Xml(failed) -->
-</suite> <!-- Failed suite [test DataProvider Xml] -->
+  </test> <!-- Login test chrome(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

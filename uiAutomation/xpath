@@ -242,4 +242,44 @@ public class testpractis {
 </suite>
 
 
-		*********** dependsOn in testNG ************
+		*********** Java Script Executor ************
+		
+		public class testpractis {
+	
+		public WebDriver dr;
+		
+		@Test
+		public void javaScripExecuter() throws InterruptedException{
+		JavascriptExecutor exe = (JavascriptExecutor)dr;
+		exe.executeScript("arguments[0].click()", dr.findElement(By.xpath("//a[contains(text(),'University IUMS Login')]")));
+		for(String s : dr.getWindowHandles())
+			dr.switchTo().window(s);
+		exe.executeScript("arguments[0].value = 'erp@admin'", dr.findElement(By.cssSelector("input[id='username']")));
+		exe.executeScript("document.getElementById(id = 'upassword').value='abcd'");
+		exe.executeScript("document.getElementsByClassName('logbutt')[0].click()");
+	}
+	
+	
+	----- Grid Configuration code ----- 
+	
+	IN CMD - 
+		To register hub - java -jar selenium-server-standalone-3.10.0.jar -role hub
+		To register Node - java -jar selenium-server-standalone-3.10.0.jar -role node -hub http://localhost:4444/grid/register
+		
+		Register RemoteWebDriver with capabilities - 
+		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.firefox()); 
+	
+	---- Highest manager of the hierarchy ----------
+	
+	with cte 
+	as (
+		select id, name, mid, 1 as level from emp  
+		union all 
+		select e.id, e.name, m.mid, level + 1  from emp e, cte m 
+		where  e.mid = m.id
+		)
+	select c.name [Employee Name], t.name [Manager Name], * from cte c, cte t
+	where c.mid = t.id and t.mid is null and t.level = 1
+	
+	
+	

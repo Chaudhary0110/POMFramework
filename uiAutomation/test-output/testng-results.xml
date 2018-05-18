@@ -1,66 +1,465 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+<testng-results skipped="0" failed="2" ignored="0" total="3" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[User logged Out from IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Navigate back to home page]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_17_05_2018_06_15_43.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_17_05_2018_06_15_43.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_17_05_2018_06_15_46.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_17_05_2018_06_15_46.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Grace Configuration Master]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_17_05_2018_06_15_49.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_17_05_2018_06_15_49.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on District PlaceMapping]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_17_05_2018_06_15_51.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_17_05_2018_06_15_51.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_17_05_2018_06_15_54.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_17_05_2018_06_15_54.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_17_05_2018_06_15_57.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_17_05_2018_06_15_57.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_16_59.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_16_59.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_18_06.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_18_06.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54" started-at="2018-05-08T10:40:50Z" finished-at="2018-05-08T10:40:50Z">
+  <suite name="Regression Suite" duration-ms="166389" started-at="2018-05-17T12:45:21Z" finished-at="2018-05-17T12:48:08Z">
     <groups>
-      <group name="database">
-        <method signature="testpractis.test2()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test2" class="signInAction.testpractis"/>
-      </group> <!-- database -->
-      <group name="regression">
-        <method signature="testpractis.test1()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test1" class="signInAction.testpractis"/>
-        <method signature="testpractis.test3()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test3" class="signInAction.testpractis"/>
-      </group> <!-- regression -->
-      <group name="sainity">
-        <method signature="testpractis.test1()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test1" class="signInAction.testpractis"/>
-        <method signature="testpractis.test2()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test2" class="signInAction.testpractis"/>
-        <method signature="testpractis.testingDataProvider(java.lang.String, java.lang.String)[pri:0, instance:signInAction.testpractis@bdf5e5]" name="testingDataProvider" class="signInAction.testpractis"/>
-        <method signature="testpractis.test4()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test4" class="signInAction.testpractis"/>
-      </group> <!-- sainity -->
     </groups>
-    <test name="Default test" duration-ms="54" started-at="2018-05-08T10:40:50Z" finished-at="2018-05-08T10:40:50Z">
-      <class name="signInAction.testpractis">
-        <test-method status="PASS" signature="testBeforeClass()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="testBeforeClass" is-config="true" duration-ms="11" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testBeforeClass -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test1" duration-ms="4" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test2" duration-ms="2" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="testingDataProvider(java.lang.String, java.lang.String)[pri:0, instance:signInAction.testpractis@bdf5e5]" name="testingDataProvider" duration-ms="1" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+    <test name="Login test chrome" duration-ms="166389" started-at="2018-05-17T12:45:21Z" finished-at="2018-05-17T12:48:08Z">
+      <class name="signInAction.TC_Login">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@5997b1]" name="beforeMethod" is-config="true" duration-ms="8711" started-at="2018-05-17T18:15:22Z" finished-at="2018-05-17T18:15:31Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[user]]>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[pass]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- testingDataProvider -->
-        <test-method status="PASS" signature="test3()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test3" duration-ms="1" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:signInAction.TC_Login@5997b1]" name="LoginWithMultipleUser" duration-ms="3720" started-at="2018-05-17T18:15:31Z" data-provider="loginData" finished-at="2018-05-17T18:15:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[User logged Out from IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Navigate back to home page]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- test3 -->
-        <test-method status="PASS" signature="test4()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="test4" duration-ms="1" started-at="2018-05-08T16:10:50Z" finished-at="2018-05-08T16:10:50Z">
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@5997b1]" name="afterMethod" is-config="true" duration-ms="908" started-at="2018-05-17T18:15:34Z" finished-at="2018-05-17T18:15:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SUCCESS method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:signInAction.TC_Login@5997b1] output=Clicked on IUMS Login link]]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- test4 -->
-        <test-method status="PASS" signature="depends()[pri:0, instance:signInAction.testpractis@bdf5e5]" name="depends" duration-ms="1" started-at="2018-05-08T16:10:50Z" depends-on-methods="signInAction.testpractis.test2, signInAction.testpractis.test1" finished-at="2018-05-08T16:10:50Z">
+        </test-method> <!-- afterMethod -->
+      </class> <!-- signInAction.TC_Login -->
+      <class name="ExaminationAndResultModule.ExamConfigMaster">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1846d2c]" name="beforeMethod" is-config="true" duration-ms="3943" started-at="2018-05-17T18:17:00Z" finished-at="2018-05-17T18:17:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- depends -->
-      </class> <!-- signInAction.testpractis -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1846d2c]" name="ExamConfigMasterTest" duration-ms="62257" started-at="2018-05-17T18:17:04Z" data-provider="loginData" finished-at="2018-05-17T18:18:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1"}  (Session info: chrome=66.0.3359.139)  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'ESLDELLV3', ip: '192.168.10.121', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_05'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\AMITCH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}Session ID: 4ea5855da5e38aeab8e8e9af381f108c*** Element info: {Using=xpath, value=//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1"}  (Session info: chrome=66.0.3359.139)  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'ESLDELLV3', ip: '192.168.10.121', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_05'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\AMITCH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}Session ID: 4ea5855da5e38aeab8e8e9af381f108c*** Element info: {Using=xpath, value=//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1}at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)at java.lang.reflect.Constructor.newInstance(Unknown Source)at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)at org.openqa.selenium.By$ByXPath.findElement(By.java:361)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)at com.sun.proxy.$Proxy13.getText(Unknown Source)at pageObject.MyModules.assignedModules(MyModules.java:35)at ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(ExamConfigMaster.java:56)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1846d2c]" name="afterMethod" is-config="true" duration-ms="1253" started-at="2018-05-17T18:18:06Z" finished-at="2018-05-17T18:18:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=FAILURE method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1846d2c] output=Clicked on IUMS Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_18_06.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_18_06.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ExaminationAndResultModule.ExamConfigMaster -->
+      <class name="ExaminationAndResultModule.SanityTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@f4d528]" name="beforeMethod" is-config="true" duration-ms="3883" started-at="2018-05-17T18:15:35Z" finished-at="2018-05-17T18:15:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@f4d528]" name="examinationResultSanityTest" duration-ms="80011" started-at="2018-05-17T18:15:39Z" data-provider="loginData" finished-at="2018-05-17T18:16:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='aspnetForm']/div[3]/table/tbody/tr/td/div[1]/table[1]/tbody/tr/td[5]/div/a"}  (Session info: chrome=66.0.3359.139)  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'ESLDELLV3', ip: '192.168.10.121', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_05'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\AMITCH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}Session ID: 78c4f0109c0c08c07f62ffb01cdb263c*** Element info: {Using=xpath, value=//*[@id='aspnetForm']/div[3]/table/tbody/tr/td/div[1]/table[1]/tbody/tr/td[5]/div/a}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='aspnetForm']/div[3]/table/tbody/tr/td/div[1]/table[1]/tbody/tr/td[5]/div/a"}  (Session info: chrome=66.0.3359.139)  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'ESLDELLV3', ip: '192.168.10.121', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_05'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\AMITCH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}Session ID: 78c4f0109c0c08c07f62ffb01cdb263c*** Element info: {Using=xpath, value=//*[@id='aspnetForm']/div[3]/table/tbody/tr/td/div[1]/table[1]/tbody/tr/td[5]/div/a}at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)at java.lang.reflect.Constructor.newInstance(Unknown Source)at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)at org.openqa.selenium.By$ByXPath.findElement(By.java:361)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)at com.sun.proxy.$Proxy13.click(Unknown Source)at pageObject.MyModules.clickOnlogOut(MyModules.java:39)at ExaminationAndResultModule.SanityTest.examinationResultSanityTest(SanityTest.java:56)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_17_05_2018_06_15_43.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_17_05_2018_06_15_43.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_17_05_2018_06_15_46.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_17_05_2018_06_15_46.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Grace Configuration Master]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_17_05_2018_06_15_49.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_17_05_2018_06_15_49.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on District PlaceMapping]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_17_05_2018_06_15_51.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_17_05_2018_06_15_51.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_17_05_2018_06_15_54.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_17_05_2018_06_15_54.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_17_05_2018_06_15_57.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_17_05_2018_06_15_57.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@f4d528]" name="afterMethod" is-config="true" duration-ms="1021" started-at="2018-05-17T18:16:59Z" finished-at="2018-05-17T18:17:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=FAILURE method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@f4d528] output=Clicked on IUMS Login link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_16_59.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_17_05_2018_06_16_59.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ExaminationAndResultModule.SanityTest -->
+    </test> <!-- Login test chrome -->
+  </suite> <!-- Regression Suite -->
 </testng-results>

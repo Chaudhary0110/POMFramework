@@ -1,43 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name = "Regression Suite" >
+<suite name = "Regression Suite" parallel = "methods" thread-count = "3" preserve-order = "true">
 	
 	<!-- listeners>
-		<listener class-name = "customListner.Listner"></listener>
-		<listener class-name = "customListner.RetryListener"></listener> 
-	</listeners> 
-	preserve-order = "true" parallel = "tests" thread-count = "1"
+		<listener class-name = "customListner.Listner" />
+		<listener class-name = "customListner.RetryListener" /> 
+	</listeners> -->
 	
+		
 	<test name = "Login test chrome">
 		<parameter name = "browser" value = "chrome" />
 	<classes>
 	
 		<class name = "signInAction.TC_Login">
 			<methods>
-				<exclude name="LoginWithMultipleUser"/>
-                <exclude name="examinationResultSanityTest"/>
-                <include name="ExamConfigMasterTest"/>
-           </methods>
+				<include name="LoginWithMultipleUser"/>
+			</methods>
 		</class>
 		
-	</classes>
-	</test>-->
-	
-	<test name = "Login test Firefox">
-		<parameter name = "browser" value = "chrome" />
-	<classes>
-	
-		<class name = "signInAction.TC_Login">
+		<class name = "ExaminationAndResultModule.SanityTest">
 			<methods>
-				<exclude name="LoginWithMultipleUser"/>
-                <exclude name="examinationResultSanityTest"/>
-                <include name="ExamConfigMasterTest"/>
-           </methods>
+                <include name="examinationResultSanityTest"/>
+            </methods>
+		</class>
+		
+		<class name = "ExaminationAndResultModule.ExamConfigMaster">
+			<methods>
+				<include name="ExamConfigMasterTest"/>
+            </methods>
 		</class>
 		
 	</classes>
-		
 	</test>
-	
 </suite>

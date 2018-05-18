@@ -1,0 +1,54 @@
+package practisJava;
+
+ abstract class BaseJava {
+
+		 static void test1() {	System.out.println("Parent class method");}
+		 BaseJava() {
+			 System.out.println("Base constructor");
+		}
+			
+}
+
+ 
+abstract class childJava extends BaseJava {
+
+	 public void test2() {	System.out.println("child class method");}
+			
+	 childJava() {
+		 System.out.println("Child constructor");
+	}
+	 
+		void test4() {
+			
+			System.out.println("Method implemented");
+			
+		}
+}
+
+public class PractisJava extends childJava{
+	
+	  public void test3() {	System.out.println("Pactis class method");}
+	
+	
+	public static void main (String Args[]){
+		
+		int i = 0;
+		while (i < 100){
+			if (i % 3 == 0 && i % 5 == 0)
+				System.out.println("BuzzFizz");
+			else if (i % 3 == 0)
+				System.out.println("Buzz");
+			else if (i % 5 == 0)
+				System.out.println("Fuzz");
+			else 
+				System.out.println(i);
+			i++;
+		}
+		
+		
+	}
+
+
+}
+
+

@@ -1,0 +1,30 @@
+package practisJava;
+
+ class baseJava {
+
+	 baseJava() {	System.out.println("Parent class method");}
+			
+}
+
+ 
+class childJava extends baseJava{
+
+	 childJava() {	System.out.println("child class method");}
+			
+}
+
+public class PractisJava extends childJava{
+	
+	  PractisJava() {	System.out.println("Pactis class method");}
+	
+	
+	public static void main (String Args[]){
+		
+		//baseJava o = new PractisJava();
+		PractisJava p = (PractisJava) new baseJava();
+	
+		
+	}
+}
+
+
