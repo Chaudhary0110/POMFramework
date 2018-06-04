@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [automationTest]">
+  <test name="abpAutomationTest(failed)">
+    <classes>
+      <class name="testScript.TestScript">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="navigationTest"/>
+          <include name="verfyDate"/>
+          <include name="searchKeywordTest" invocation-numbers="0 1 2 3 4 5"/>
+        </methods>
+      </class> <!-- testScript.TestScript -->
+    </classes>
+  </test> <!-- abpAutomationTest(failed) -->
+</suite> <!-- Failed suite [automationTest] -->
