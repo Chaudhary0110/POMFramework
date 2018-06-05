@@ -13,17 +13,17 @@
 		<parameter name = "browser" value = "chrome" />
 	<classes>
 	
-		<class name = "signInAction.TC_Login">
+		<!-- <class name = "signInAction.TC_Login">
 			<methods>
 				<include name="LoginWithMultipleUser"/>
 			</methods>
 		</class>
-		
+				
 		<class name = "ExaminationAndResultModule.SanityTest">
 			<methods>
                 <include name="examinationResultSanityTest"/>
             </methods>
-		</class>
+		</class> -->
 		
 		<class name = "ExaminationAndResultModule.ExamConfigMaster">
 			<methods>

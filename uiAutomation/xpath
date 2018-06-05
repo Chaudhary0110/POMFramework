@@ -250,13 +250,15 @@ public class testpractis {
 		
 		@Test
 		public void javaScripExecuter() throws InterruptedException{
-		JavascriptExecutor exe = (JavascriptExecutor)dr;
-		exe.executeScript("arguments[0].click()", dr.findElement(By.xpath("//a[contains(text(),'University IUMS Login')]")));
+		JavascriptExecutor js = (JavascriptExecutor)dr;
+		js.executeScript("arguments[0].click()", dr.findElement(By.xpath("//a[contains(text(),'University IUMS Login')]")));
 		for(String s : dr.getWindowHandles())
 			dr.switchTo().window(s);
-		exe.executeScript("arguments[0].value = 'erp@admin'", dr.findElement(By.cssSelector("input[id='username']")));
-		exe.executeScript("document.getElementById(id = 'upassword').value='abcd'");
-		exe.executeScript("document.getElementsByClassName('logbutt')[0].click()");
+		js.executeScript("arguments[0].value = 'erp@admin'", dr.findElement(By.cssSelector("input[id='username']")));
+		js.executeScript("document.getElementById(id = 'upassword').value='abcd'");
+		js.executeScript("document.getElementsByClassName('logbutt')[0].click()");
+		js.executeScript("scrollBy(0, 250)");
+		js.executeScript("scrollBy(0, -250)");
 	}
 	
 	
@@ -281,5 +283,14 @@ public class testpractis {
 	select c.name [Employee Name], t.name [Manager Name], * from cte c, cte t
 	where c.mid = t.id and t.mid is null and t.level = 1
 	
+	-------- Window size and position ------------------
+	
+	driver.manage().window().maximize();
+	driver.manage().window().setSize(new Dimension(300,500));
+	driver.manage().window().getSize().getHeight()
+	driver.manage().window().getSize().getWidth()
+	driver.manage().window().setPosition(new Point(50,200));
+	driver.manage().window().getPosition().getX()
+	driver.manage().window().getPosition().getY()
 	
 	

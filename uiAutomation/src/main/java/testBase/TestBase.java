@@ -67,6 +67,7 @@ public class TestBase {
 		
 	}
 	
+	
 	public void loadData() throws IOException{
 		OR = new Properties();
 		File file = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\config.properties");
