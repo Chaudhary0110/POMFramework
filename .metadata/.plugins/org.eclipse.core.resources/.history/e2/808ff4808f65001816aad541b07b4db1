@@ -1,0 +1,41 @@
+package homePage;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class HomePage {
+
+	
+	@FindBy (xpath = "//*[@id='abp_nav_calcutta']/a")
+	WebElement firstMenu;
+	
+	@FindBy (xpath = "//*[@id='bs-example-navbar-collapse-1']/ul/li[1]/a/i")
+	WebElement homeLink;
+	
+	@FindBy (xpath = "//*[@id='abp_nav_calcutta']/a")
+	WebElement firstLink;
+	
+	
+	
+	public HomePage(WebDriver driver){
+		PageFactory.initElements(driver, this);
+	}
+	
+	
+	public WebElement getfirstMenu(){
+		
+		return firstMenu;
+	}	
+	
+	public WebElement getfirstLink(){
+		
+		return firstLink;
+	}	
+	
+	public void clickhomeLink(){
+	
+		homeLink.click();
+}	
+}

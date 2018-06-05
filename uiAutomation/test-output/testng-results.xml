@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
       <![CDATA[Creating the object of : chrome]]>
@@ -14,18 +14,63 @@
       <![CDATA[Switched to new window]]>
     </line>
     <line>
-      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_31_05_2018_06_13_36.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_31_05_2018_06_13_36.png' hight =100 width =100 /> </a>]]>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Session Selected]]>
+    </line>
+    <line>
+      <![CDATA[Switched to calendar frame]]>
+    </line>
+    <line>
+      <![CDATA[Today : Jun 5, 2018 is selected]]>
+    </line>
+    <line>
+      <![CDATA[From Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[From Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[Exam Category Selected]]>
+    </line>
+    <line>
+      <![CDATA[Is Active Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
     </line>
     <line>
       <![CDATA[Driver session closed]]>
     </line>
   </reporter-output>
-  <suite name="Regression Suite" duration-ms="7326" started-at="2018-05-31T12:43:30Z" finished-at="2018-05-31T12:43:37Z">
+  <suite name="Regression Suite" duration-ms="11324" started-at="2018-06-05T07:34:22Z" finished-at="2018-06-05T07:34:33Z">
     <groups>
     </groups>
-    <test name="Login test chrome" duration-ms="7326" started-at="2018-05-31T12:43:30Z" finished-at="2018-05-31T12:43:37Z">
+    <test name="Login test chrome" duration-ms="11324" started-at="2018-06-05T07:34:22Z" finished-at="2018-06-05T07:34:33Z">
       <class name="ExaminationAndResultModule.ExamConfigMaster">
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@72e3f]" name="beforeMethod" is-config="true" duration-ms="4081" started-at="2018-05-31T18:13:30Z" finished-at="2018-05-31T18:13:34Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158]" name="beforeMethod" is-config="true" duration-ms="4140" started-at="2018-06-05T13:04:22Z" finished-at="2018-06-05T13:04:26Z">
           <params>
             <param index="0">
               <value>
@@ -47,7 +92,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="FAIL" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@72e3f]" name="ExamConfigMasterTest" duration-ms="1229" started-at="2018-05-31T18:13:34Z" data-provider="loginData" finished-at="2018-05-31T18:13:36Z">
+        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158]" name="ExamConfigMasterTest" duration-ms="5716" started-at="2018-06-05T13:04:26Z" data-provider="loginData" finished-at="2018-06-05T13:04:32Z">
           <params>
             <param index="0">
               <value>
@@ -65,14 +110,6 @@
               </value>
             </param>
           </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[The following asserts failed:expected [JNVU :: UNIVERSITY ADMIN LOGIN] but found [JNVU :: UNIVERSITY ADMIN LOGI]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: The following asserts failed:expected [JNVU :: UNIVERSITY ADMIN LOGIN] but found [JNVU :: UNIVERSITY ADMIN LOGI]at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)at ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(ExamConfigMaster.java:60)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
               <![CDATA[Clicked on IUMS Login link]]>
@@ -80,20 +117,65 @@
             <line>
               <![CDATA[Switched to new window]]>
             </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Session Selected]]>
+            </line>
+            <line>
+              <![CDATA[Switched to calendar frame]]>
+            </line>
+            <line>
+              <![CDATA[Today : Jun 5, 2018 is selected]]>
+            </line>
+            <line>
+              <![CDATA[From Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[From Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[Exam Category Selected]]>
+            </line>
+            <line>
+              <![CDATA[Is Active Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
           </reporter-output>
         </test-method> <!-- ExamConfigMasterTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@72e3f]" name="afterMethod" is-config="true" duration-ms="1536" started-at="2018-05-31T18:13:36Z" finished-at="2018-05-31T18:13:37Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158]" name="afterMethod" is-config="true" duration-ms="937" started-at="2018-06-05T13:04:32Z" finished-at="2018-06-05T13:04:33Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=ExamConfigMasterTest status=FAILURE method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@72e3f] output=Clicked on IUMS Login link]]]>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158] output=Clicked on IUMS Login link]]]>
               </value>
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_31_05_2018_06_13_36.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\ExtentReports\Blank_31_05_2018_06_13_36.png' hight =100 width =100 /> </a>]]>
-            </line>
             <line>
               <![CDATA[Driver session closed]]>
             </line>

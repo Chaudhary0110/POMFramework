@@ -1,0 +1,78 @@
+05-Jun-2018 11:53:51.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.8
+05-Jun-2018 11:53:51.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 27 2018 19:32:00 UTC
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.8.0
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 8.1
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.3
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_05\jre
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_05-b13
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\conf\logging.properties
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\temp
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.16] using APR version [1.6.3].
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+05-Jun-2018 11:53:51.798 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+05-Jun-2018 11:53:52.463 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2m  2 Nov 2017]
+05-Jun-2018 11:53:54.001 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Jun-2018 11:53:54.197 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Jun-2018 11:53:54.244 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+05-Jun-2018 11:53:54.260 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Jun-2018 11:53:54.260 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 14239 ms
+05-Jun-2018 11:53:54.408 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Jun-2018 11:53:54.408 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.8
+05-Jun-2018 11:53:54.627 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\jenkins.war]
+05-Jun-2018 11:54:20.307 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Jun-2018 11:54:21.657 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\jenkins.war] has finished in [27,030] ms
+05-Jun-2018 11:54:21.657 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\docs]
+05-Jun-2018 11:54:21.688 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\docs] has finished in [31] ms
+05-Jun-2018 11:54:21.688 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\examples]
+05-Jun-2018 11:54:23.073 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\examples] has finished in [1,385] ms
+05-Jun-2018 11:54:23.073 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\host-manager]
+05-Jun-2018 11:54:23.141 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\host-manager] has finished in [68] ms
+05-Jun-2018 11:54:23.141 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\manager]
+05-Jun-2018 11:54:23.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\manager] has finished in [79] ms
+05-Jun-2018 11:54:23.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\ROOT]
+05-Jun-2018 11:54:23.235 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\hybridFramework\apache-tomcat-9.0.8-windows-x86\apache-tomcat-9.0.8\webapps\ROOT] has finished in [15] ms
+05-Jun-2018 11:54:23.235 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Jun-2018 11:54:23.266 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+05-Jun-2018 11:54:23.266 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 29015 ms
+05-Jun-2018 11:54:23.985 INFO [pool-6-thread-2] jenkins.InitReactorRunner$1.onAttained Started initialization
+05-Jun-2018 11:54:29.098 INFO [pool-6-thread-3] jenkins.InitReactorRunner$1.onAttained Listed all plugins
+05-Jun-2018 11:54:34.033 INFO [pool-6-thread-1] jenkins.InitReactorRunner$1.onAttained Prepared all plugins
+05-Jun-2018 11:54:34.033 INFO [pool-6-thread-1] jenkins.InitReactorRunner$1.onAttained Started all plugins
+05-Jun-2018 11:54:34.079 INFO [pool-6-thread-7] jenkins.InitReactorRunner$1.onAttained Augmented all extensions
+05-Jun-2018 11:54:44.985 INFO [pool-6-thread-4] jenkins.InitReactorRunner$1.onAttained Loaded all jobs
+05-Jun-2018 11:54:45.016 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Started Download metadata
+05-Jun-2018 11:54:46.666 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing org.springframework.web.context.support.StaticWebApplicationContext@138b8cb: display name [Root WebApplicationContext]; startup date [Tue Jun 05 11:54:46 IST 2018]; root of context hierarchy
+05-Jun-2018 11:54:46.666 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@138b8cb]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1aabc41
+05-Jun-2018 11:54:46.682 INFO [Finalizing set up] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1aabc41: defining beans [authenticationManager]; root of factory hierarchy
+05-Jun-2018 11:54:47.010 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing org.springframework.web.context.support.StaticWebApplicationContext@eb3de9: display name [Root WebApplicationContext]; startup date [Tue Jun 05 11:54:47 IST 2018]; root of context hierarchy
+05-Jun-2018 11:54:47.010 INFO [Finalizing set up] org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory Bean factory for application context [org.springframework.web.context.support.StaticWebApplicationContext@eb3de9]: org.springframework.beans.factory.support.DefaultListableBeanFactory@187eeba
+05-Jun-2018 11:54:47.010 INFO [Finalizing set up] org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@187eeba: defining beans [filter,legacy]; root of factory hierarchy
+05-Jun-2018 11:54:47.142 INFO [pool-6-thread-2] jenkins.InitReactorRunner$1.onAttained Completed initialization
+05-Jun-2018 11:54:47.220 INFO [Jenkins initialization thread] hudson.WebAppMain$3.run Jenkins is fully up and running
+05-Jun-2018 11:54:47.501 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork$1.run Finished Download metadata. 2,469 ms
+05-Jun-2018 11:56:41.001 WARNING [Executor #0 for master : executing AutomationTest #6] hudson.Util.warnWindowsSymlink Symbolic links enabled on this platform but disabled for this user; run as administrator or use Local Security Policy > Security Settings > Local Policies > User Rights Assignment > Create symbolic links
+05-Jun-2018 11:56:52.366 INFO [Executor #0 for master : executing AutomationTest #6] hudson.model.Run.execute AutomationTest #6 main build action completed: SUCCESS
+05-Jun-2018 13:08:46.460 INFO [Executor #0 for master : executing AutomationTest #7] hudson.model.Run.execute AutomationTest #7 main build action completed: FAILURE
+05-Jun-2018 13:19:03.351 INFO [Executor #0 for master : executing AutomationTest #8] hudson.model.Run.execute AutomationTest #8 main build action completed: FAILURE
+05-Jun-2018 13:19:05.944 INFO [Executor #0 for master : executing AutomationTest #9] hudson.model.Run.execute AutomationTest #9 main build action completed: FAILURE
+05-Jun-2018 13:20:47.637 INFO [Executor #0 for master : executing AutomationTest #10] hudson.model.Run.execute AutomationTest #10 main build action completed: FAILURE
+05-Jun-2018 13:22:16.209 WARNING [Handling POST /jenkins/descriptor/com.cloudbees.plugins.credentials.CredentialsSelectHelper/resolver/com.cloudbees.plugins.credentials.CredentialsSelectHelper$SystemContextResolver/provider/com.cloudbees.plugins.credentials.SystemCredentialsProvider$ProviderImpl/context/jenkins/addCredentials from 0:0:0:0:0:0:0:1 : http-nio-8080-exec-2] org.jenkinsci.remoting.util.AnonymousClassWarnings.warn Attempt to (de-)serialize anonymous class com.cloudbees.plugins.credentials.CredentialsScope$2 in file:/C:/Users/Amit%20Chaudhary/.jenkins/plugins/credentials/WEB-INF/lib/credentials.jar; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/
+05-Jun-2018 13:23:32.188 INFO [Executor #0 for master : executing AutomationTest #1] hudson.model.Run.execute AutomationTest #1 main build action completed: FAILURE
+05-Jun-2018 13:26:03.813 INFO [Executor #0 for master : executing AutomationTest #1] hudson.model.Run.execute AutomationTest #1 main build action completed: SUCCESS
+05-Jun-2018 13:27:08.999 INFO [Executor #0 for master : executing AutomationTest #2] hudson.model.Run.execute AutomationTest #2 main build action completed: SUCCESS
+05-Jun-2018 14:03:41.901 INFO [Executor #0 for master : executing AutomationTest #3] hudson.model.Run.execute AutomationTest #3 main build action completed: SUCCESS
+05-Jun-2018 14:08:06.470 INFO [Executor #0 for master : executing AutomationTest #4] hudson.model.Run.execute AutomationTest #4 main build action completed: SUCCESS
+05-Jun-2018 14:08:13.216 INFO [Executor #0 for master : executing AutomationTest #5] hudson.model.Run.execute AutomationTest #5 main build action completed: SUCCESS
+05-Jun-2018 14:08:24.361 INFO [Executor #1 for master : executing AutomationTest #6] hudson.model.Run.execute AutomationTest #6 main build action completed: SUCCESS
+05-Jun-2018 14:08:58.022 INFO [Executor #1 for master : executing AutomationTest #7] hudson.model.Run.execute AutomationTest #7 main build action completed: SUCCESS
+05-Jun-2018 14:29:21.331 INFO [Executor #1 for master : executing TestJenkins #1] hudson.model.Run.execute TestJenkins #1 main build action completed: SUCCESS

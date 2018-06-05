@@ -3,17 +3,17 @@
 
 <suite name = "Regression Suite" parallel = "methods" thread-count = "3" preserve-order = "true">
 	
-	<!-- listeners>
+	<listeners>
 		<listener class-name = "customListner.Listner" />
 		<listener class-name = "customListner.RetryListener" /> 
-	</listeners> -->
+	</listeners>
 	
 		
 	<test name = "Login test chrome">
 		<parameter name = "browser" value = "chrome" />
 	<classes>
 	
-		<!-- <class name = "signInAction.TC_Login">
+		<class name = "signInAction.TC_Login">
 			<methods>
 				<include name="LoginWithMultipleUser"/>
 			</methods>
@@ -23,7 +23,7 @@
 			<methods>
                 <include name="examinationResultSanityTest"/>
             </methods>
-		</class> -->
+		</class>
 		
 		<class name = "ExaminationAndResultModule.ExamConfigMaster">
 			<methods>

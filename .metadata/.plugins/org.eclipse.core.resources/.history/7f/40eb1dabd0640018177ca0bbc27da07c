@@ -1,0 +1,109 @@
+package ExaminationAndResultModule;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
+import org.testng.Assert;
+import org.testng.Reporter;
+import org.testng.SkipException;
+import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
+
+import pageObject.ExamConfigurationMaster;
+import pageObject.ExamConfigurationTransaction;
+import pageObject.ExaminationAndResult;
+import pageObject.HomePage;
+import pageObject.LoginPage;
+import pageObject.MyModules;
+import testBase.TestBase;
+
+public class ExamConfigMaster extends TestBase{
+	
+	public static final Logger log = Logger.getLogger(ExamConfigMaster.class.getName());
+	
+	LoginPage loginpage;
+	HomePage homepage;
+	MyModules mymodules;
+	ExaminationAndResult examResult;
+	ExamConfigurationMaster examConfig;
+	ExamConfigurationTransaction examConfigTran;
+	
+	@Test(dataProvider = "loginData")
+	public void ExamConfigMasterTest(String userid, String password, String runMode) throws InterruptedException{
+		
+		
+		homepage = new HomePage(dr);
+		loginpage = new LoginPage(dr);
+		mymodules = new MyModules(dr);
+		examResult = new ExaminationAndResult(dr);
+		examConfig = new ExamConfigurationMaster(dr);
+		examConfigTran = new ExamConfigurationTransaction(dr);
+		
+		if(runMode.equalsIgnoreCase("N"))
+			throw new SkipException("User Marked this test as no run");
+			
+		homepage.navigateToiumsLoginPage();
+			for(String s : dr.getWindowHandles())
+				dr.switchTo().window(s);
+			
+			log("Switched to new window");
+		
+			String s = dr.getCurrentUrl();
+			String t = dr.getTitle();
+			System.out.println(s+"---"+t);
+			
+			SoftAssert asrt = new SoftAssert();
+			asrt.assertEquals("JNVU :: UNIVERSITY ADMIN LOGI", t);
+			asrt.assertAll();
+		
+		/*loginpage.iumslogin(userid, password);
+		log("User logged in to IUMS");
+		Assert.assertEquals("MODULES ASSIGNED", mymodules.assignedModules());
+			
+		mymodules.clickOnexaminationAndResultModule();
+		Actions action = new Actions(dr);
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigMaster()).click().build().perform(); 
+				
+		Select select = new Select(examConfig.getAcademicSession());
+		select.selectByVisibleText("2017 - 2018");
+		
+		WebElement input_field = dr.findElement(By.xpath("//*[@id='ctl00_ContentPlaceHolder1_V_txtCDate']")); 
+		((JavascriptExecutor)driver).executeScript("arguments[0].removeAttribute('disabled');", input_field);
+		boolean after = input_field.isEnabled();
+		System.out.println(after);
+		
+		examConfig.clickOnConfigDate();
+		dr.switchTo().frame(0);
+		log("Switched to calendar frame");
+		log(dr.findElement(By.partialLinkText("Today")).getText() + " is selected");
+		dr.findElement(By.partialLinkText("Today")).click();
+		dr.switchTo().defaultContent();
+		select = new Select(examConfig.getFromMonth());
+		select.selectByVisibleText("JULY");
+		select = new Select(examConfig.getFromYear());
+		select.selectByVisibleText("2018");
+		select = new Select(examConfig.getToMonth());
+		select.selectByVisibleText("DECEMBER");
+		select = new Select(examConfig.getToYear());
+		select.selectByVisibleText("2018");
+		select = new Select(examConfig.getExamCategory());
+		select.selectByVisibleText("ANNUAL");
+		examConfig.selectIsActive();
+		examConfig.clickOnSaveButton();
+		
+		String s = dr.switchTo().alert().getText();
+		System.out.println(s);
+		dr.switchTo().alert().accept();
+		dr.close();
+		*/
+	}
+
+	public void log(String data){
+		log.info(data);
+		Reporter.log(data);
+	}
+	
+}

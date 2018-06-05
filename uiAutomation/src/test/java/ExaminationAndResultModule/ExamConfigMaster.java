@@ -89,8 +89,6 @@ public class ExamConfigMaster extends TestBase{
 		String s = dr.switchTo().alert().getText();
 		System.out.println(s);
 		dr.switchTo().alert().accept();
-		dr.close();
-		
 	}
 
 	public void log(String data){
