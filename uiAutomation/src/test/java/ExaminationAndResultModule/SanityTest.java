@@ -17,7 +17,7 @@ public class SanityTest extends TestBase {
 
 	public static final Logger log = Logger.getLogger(SanityTest.class.getName());
 	
-	@Test(dataProvider = "loginData")
+	@Test(priority = 0, dataProvider = "loginData")
 	public void examinationResultSanityTest(String userid, String password, String runMode) throws InterruptedException{
 		
 		LoginPage loginpage;
@@ -33,7 +33,7 @@ public class SanityTest extends TestBase {
 		
 		if(runMode.equalsIgnoreCase("N"))
 			throw new SkipException("User Marked this test as no run");
-			
+					
 		homepage.navigateToiumsLoginPage();
 		
 			for(String s : dr.getWindowHandles())
@@ -47,12 +47,12 @@ public class SanityTest extends TestBase {
 			
 		mymodules.clickOnexaminationAndResultModule();
 		Actions action = new Actions(dr);
-		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigMaster()).click().build().perform(); getScreenShot("ExamConfigMaster"); 	Thread.sleep(2000);
-		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigurationTransaction()).click().build().perform(); getScreenShot("ExamConfigurationTransaction");  Thread.sleep(2000);
-		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getGraceConfigurationMaster()).click().build().perform(); getScreenShot("GraceConfigurationMaster"); Thread.sleep(2000);
-		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getDistrictPlaceMapping()).click().build().perform(); getScreenShot("DistrictPlaceMapping"); Thread.sleep(2000);
-		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamChallanNoConfiguration()).click().build().perform(); getScreenShot("ExamChallanNoConfiguration"); Thread.sleep(2000);
-		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigurationTransactionCollegeWise()).click().build().perform(); getScreenShot("ExamConfigurationTransactionCollegeWise"); Thread.sleep(2000);
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigMaster()).click().build().perform();
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigurationTransaction()).click().build().perform();
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getGraceConfigurationMaster()).click().build().perform();
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getDistrictPlaceMapping()).click().build().perform();
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamChallanNoConfiguration()).click().build().perform();
+		action.moveToElement(examResult.getExaminationMaster()).moveToElement(examResult.getExamConfigurationTransactionCollegeWise()).click().build().perform();
 		mymodules.clickOnlogOut();
 	}
 	

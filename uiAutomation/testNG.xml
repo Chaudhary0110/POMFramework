@@ -10,7 +10,7 @@
 	
 		
 	<test name = "Login test chrome">
-		<parameter name = "browser" value = "chrome" />
+		<parameter name = "browser" value = "chrome" /> 
 	<classes>
 	
 		<class name = "signInAction.TC_Login">
@@ -23,13 +23,13 @@
 			<methods>
                 <include name="examinationResultSanityTest"/>
             </methods>
-		</class>
+		</class> 
 		
 		<class name = "ExaminationAndResultModule.ExamConfigMaster">
 			<methods>
 				<include name="ExamConfigMasterTest"/>
             </methods>
-		</class>
+		</class> 
 		
 	</classes>
 	</test>

@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">3 methods,   3 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,6 +103,16 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="ExaminationAndResultModule.ExamConfigMaster" hash-for-method="ExamConfigMasterTest(erp@admin, Jnvu@)!^, Y)">ExamConfigMasterTest(erp@admin, Jnvu@)!^, Y)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="signInAction.TC_Login" hash-for-method="LoginWithMultipleUser(erp@admin, Jnvu@)!^, Y)">LoginWithMultipleUser(erp@admin, Jnvu@)!^, Y)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Regression_Suite" title="ExaminationAndResultModule.SanityTest" hash-for-method="examinationResultSanityTest(erp@admin, Jnvu@)!^, Y)">examinationResultSanityTest(erp@admin, Jnvu@)!^, Y)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Regression_Suite -->
@@ -133,6 +143,38 @@
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Regression_Suite-class-passed -->
+          <div class="suite-Regression_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">signInAction.TC_Login</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginWithMultipleUser(erp@admin, Jnvu@)!^, Y)">
+                  </a> <!-- LoginWithMultipleUser(erp@admin, Jnvu@)!^, Y) -->
+                  <span class="method-name">LoginWithMultipleUser</span>
+                  <span class="parameters">(erp@admin, Jnvu@)!^, Y)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Regression_Suite-class-passed -->
+          <div class="suite-Regression_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">ExaminationAndResultModule.SanityTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="examinationResultSanityTest(erp@admin, Jnvu@)!^, Y)">
+                  </a> <!-- examinationResultSanityTest(erp@admin, Jnvu@)!^, Y) -->
+                  <span class="method-name">examinationResultSanityTest</span>
+                  <span class="parameters">(erp@admin, Jnvu@)!^, Y)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Regression_Suite-class-passed -->
         </div> <!-- panel Regression_Suite -->
         <div panel-name="test-xml-Regression_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -143,9 +185,23 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite thread-count=&quot;-1&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Regression Suite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;customListner.Listner&quot;/&gt;
+    &lt;listener class-name=&quot;customListner.RetryListener&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test name=&quot;Login test chrome&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
+      &lt;class name=&quot;signInAction.TC_Login&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;LoginWithMultipleUser&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- signInAction.TC_Login --&gt;
+      &lt;class name=&quot;ExaminationAndResultModule.SanityTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;examinationResultSanityTest&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- ExaminationAndResultModule.SanityTest --&gt;
       &lt;class name=&quot;ExaminationAndResultModule.ExamConfigMaster&quot;&gt;
         &lt;methods&gt;
           &lt;include name=&quot;ExamConfigMasterTest&quot;/&gt;
@@ -164,7 +220,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Login test chrome (1 class)</span>
+                <span class="test-name">Login test chrome (3 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -190,16 +246,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'ExamConfigMasterTest')
-data.setCell(0, 2, 'ExaminationAndResultModule.ExamConfigMaster')
-data.setCell(0, 3, 5716);
+data.setCell(0, 1, 'examinationResultSanityTest')
+data.setCell(0, 2, 'ExaminationAndResultModule.SanityTest')
+data.setCell(0, 3, 20280);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'ExamConfigMasterTest')
+data.setCell(1, 2, 'ExaminationAndResultModule.ExamConfigMaster')
+data.setCell(1, 3, 4002);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'LoginWithMultipleUser')
+data.setCell(2, 2, 'signInAction.TC_Login')
+data.setCell(2, 3, 3141);
 window.suiteTableData['Regression_Suite']= { tableData: data, tableDiv: 'times-div-Regression_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 5 seconds</span>
+              <span class="suite-total-time">Total running time: 27 seconds</span>
               <div id="times-div-Regression_Suite">
               </div> <!-- times-div-Regression_Suite -->
             </div> <!-- times-div -->
@@ -211,8 +275,24 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginWithMultipleUser(erp@admin, Jnvu@)!^, Y)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case LoginWithMultipleUser Started</span>
+                <span class="reporter-method-output">Clicked on IUMS Login link</span>
+                <span class="reporter-method-output">Switched to new window</span>
+                <span class="reporter-method-output">Entered userName is : erp@admin</span>
+                <span class="reporter-method-output">Entered password is : Jnvu@)!^</span>
+                <span class="reporter-method-output">User logged in to IUMS JNVU</span>
+                <span class="reporter-method-output">Clicked on logOut</span>
+                <span class="reporter-method-output">User logged Out from IUMS JNVU</span>
+                <span class="reporter-method-output">Navigate back to home page</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsLoginWithMultipleUser_11_06_2018_06_39_09.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsLoginWithMultipleUser_11_06_2018_06_39_09.png' hight =100 width =100 /> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
               <span class="reporter-method-name">ExamConfigMasterTest(erp@admin, Jnvu@)!^, Y)</span>
               <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case ExamConfigMasterTest Started</span>
                 <span class="reporter-method-output">Clicked on IUMS Login link</span>
                 <span class="reporter-method-output">Switched to new window</span>
                 <span class="reporter-method-output">Entered userName is : erp@admin</span>
@@ -223,7 +303,7 @@ return data;
                 <span class="reporter-method-output">Clicked on Exam Config Master</span>
                 <span class="reporter-method-output">Session Selected</span>
                 <span class="reporter-method-output">Switched to calendar frame</span>
-                <span class="reporter-method-output">Today : Jun 5, 2018 is selected</span>
+                <span class="reporter-method-output">Today : Jun 11, 2018 is selected</span>
                 <span class="reporter-method-output">From Month Selected</span>
                 <span class="reporter-method-output">From Year Selected</span>
                 <span class="reporter-method-output">To Month Selected</span>
@@ -231,6 +311,39 @@ return data;
                 <span class="reporter-method-output">Exam Category Selected</span>
                 <span class="reporter-method-output">Is Active Selected</span>
                 <span class="reporter-method-output">Clicked on Save Button</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_11_06_2018_06_39_00.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_11_06_2018_06_39_00.png' hight =100 width =100 /> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">examinationResultSanityTest(erp@admin, Jnvu@)!^, Y)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test case examinationResultSanityTest Started</span>
+                <span class="reporter-method-output">Clicked on IUMS Login link</span>
+                <span class="reporter-method-output">Switched to new window</span>
+                <span class="reporter-method-output">Entered userName is : erp@admin</span>
+                <span class="reporter-method-output">Entered password is : Jnvu@)!^</span>
+                <span class="reporter-method-output">User logged in to IUMS</span>
+                <span class="reporter-method-output">Clicked on Examination & Result Module</span>
+                <span class="reporter-method-output">Mouse Hover to Examination Master</span>
+                <span class="reporter-method-output">Clicked on Exam Config Master</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_11_06_2018_06_38_32.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_11_06_2018_06_38_32.png' hight =100 width =100 /> </a></span>
+                <span class="reporter-method-output">Mouse Hover to Examination Master</span>
+                <span class="reporter-method-output">Clicked on Exam Configuration Transaction</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_11_06_2018_06_38_35.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_11_06_2018_06_38_35.png' hight =100 width =100 /> </a></span>
+                <span class="reporter-method-output">Mouse Hover to Examination Master</span>
+                <span class="reporter-method-output">Clicked on Grace Configuration Master</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_11_06_2018_06_38_38.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_11_06_2018_06_38_38.png' hight =100 width =100 /> </a></span>
+                <span class="reporter-method-output">Mouse Hover to Examination Master</span>
+                <span class="reporter-method-output">Clicked on District PlaceMapping</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_11_06_2018_06_38_41.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_11_06_2018_06_38_41.png' hight =100 width =100 /> </a></span>
+                <span class="reporter-method-output">Mouse Hover to Examination Master</span>
+                <span class="reporter-method-output">Clicked on Exam Configuration Transaction</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_11_06_2018_06_38_44.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_11_06_2018_06_38_44.png' hight =100 width =100 /> </a></span>
+                <span class="reporter-method-output">Mouse Hover to Examination Master</span>
+                <span class="reporter-method-output">Clicked on Exam Configuration Transaction College Wise</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_11_06_2018_06_38_47.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_11_06_2018_06_38_47.png' hight =100 width =100 /> </a></span>
+                <span class="reporter-method-output">Clicked on logOut</span>
+                <span class="reporter-method-output"><a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsexaminationResultSanityTest_11_06_2018_06_38_50.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsexaminationResultSanityTest_11_06_2018_06_38_50.png' hight =100 width =100 /> </a></span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -248,18 +361,48 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">ExaminationAndResultModule.ExamConfigMaster</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">ExaminationAndResultModule.SanityTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
-                <span class="method-name">beforeMethod(public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.l...)</span>
+                <span class="method-name">beforeMethod(public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java....)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
+                <span class="method-name">examinationResultSanityTest(erp@admin, Jnvu@)!^, Y)</span>
+                <span class="method-start">4959 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=examinationResultSanityTest status=SUCCESS method=SanityTest.examinationResultSanit...)</span>
+                <span class="method-start">25515 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">ExaminationAndResultModule.ExamConfigMaster</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.l...)</span>
+                <span class="method-start">26421 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
                 <span class="method-name">ExamConfigMasterTest(erp@admin, Jnvu@)!^, Y)</span>
-                <span class="method-start">4140 ms</span>
+                <span class="method-start">31329 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterMethod([TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(ja...)</span>
-                <span class="method-start">9858 ms</span>
+                <span class="method-start">35698 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">signInAction.TC_Login</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang....)</span>
+                <span class="method-start">36409 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginWithMultipleUser(erp@admin, Jnvu@)!^, Y)</span>
+                <span class="method-start">41465 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=LoginWithMultipleUser status=SUCCESS method=TC_Login.LoginWithMultipleUser(java.lan...)</span>
+                <span class="method-start">45267 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

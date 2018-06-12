@@ -76,3 +76,6 @@
 05-Jun-2018 14:08:24.361 INFO [Executor #1 for master : executing AutomationTest #6] hudson.model.Run.execute AutomationTest #6 main build action completed: SUCCESS
 05-Jun-2018 14:08:58.022 INFO [Executor #1 for master : executing AutomationTest #7] hudson.model.Run.execute AutomationTest #7 main build action completed: SUCCESS
 05-Jun-2018 14:29:21.331 INFO [Executor #1 for master : executing TestJenkins #1] hudson.model.Run.execute TestJenkins #1 main build action completed: SUCCESS
+05-Jun-2018 16:04:40.878 INFO [Executor #0 for master : executing TestJenkins #1] hudson.model.Run.execute TestJenkins #1 main build action completed: SUCCESS
+05-Jun-2018 17:32:16.591 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork$1.run Started Workspace clean-up
+05-Jun-2018 17:32:22.471 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork$1.run Finished Workspace clean-up. 5,879 ms

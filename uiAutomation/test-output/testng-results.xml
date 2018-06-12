@@ -1,11 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
     <line>
       <![CDATA[Creating the object of : chrome]]>
     </line>
     <line>
       <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case examinationResultSanityTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_11_06_2018_06_38_32.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_11_06_2018_06_38_32.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_11_06_2018_06_38_35.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_11_06_2018_06_38_35.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Grace Configuration Master]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_11_06_2018_06_38_38.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_11_06_2018_06_38_38.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on District PlaceMapping]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_11_06_2018_06_38_41.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_11_06_2018_06_38_41.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_11_06_2018_06_38_44.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_11_06_2018_06_38_44.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_11_06_2018_06_38_47.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_11_06_2018_06_38_47.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsexaminationResultSanityTest_11_06_2018_06_38_50.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsexaminationResultSanityTest_11_06_2018_06_38_50.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
     </line>
     <line>
       <![CDATA[Clicked on IUMS Login link]]>
@@ -38,7 +131,7 @@
       <![CDATA[Switched to calendar frame]]>
     </line>
     <line>
-      <![CDATA[Today : Jun 5, 2018 is selected]]>
+      <![CDATA[Today : Jun 11, 2018 is selected]]>
     </line>
     <line>
       <![CDATA[From Month Selected]]>
@@ -62,15 +155,146 @@
       <![CDATA[Clicked on Save Button]]>
     </line>
     <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_11_06_2018_06_39_00.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_11_06_2018_06_39_00.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case LoginWithMultipleUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[User logged Out from IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Navigate back to home page]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsLoginWithMultipleUser_11_06_2018_06_39_09.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsLoginWithMultipleUser_11_06_2018_06_39_09.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
       <![CDATA[Driver session closed]]>
     </line>
   </reporter-output>
-  <suite name="Regression Suite" duration-ms="11324" started-at="2018-06-05T07:34:22Z" finished-at="2018-06-05T07:34:33Z">
+  <suite name="Regression Suite" duration-ms="46447" started-at="2018-06-11T13:08:24Z" finished-at="2018-06-11T13:09:10Z">
     <groups>
     </groups>
-    <test name="Login test chrome" duration-ms="11324" started-at="2018-06-05T07:34:22Z" finished-at="2018-06-05T07:34:33Z">
+    <test name="Login test chrome" duration-ms="46447" started-at="2018-06-11T13:08:24Z" finished-at="2018-06-11T13:09:10Z">
+      <class name="signInAction.TC_Login">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@dba097]" name="beforeMethod" is-config="true" duration-ms="5056" started-at="2018-06-11T18:39:01Z" finished-at="2018-06-11T18:39:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@dba097]" name="LoginWithMultipleUser" duration-ms="3141" started-at="2018-06-11T18:39:06Z" data-provider="loginData" finished-at="2018-06-11T18:39:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case LoginWithMultipleUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[User logged Out from IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Navigate back to home page]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsLoginWithMultipleUser_11_06_2018_06_39_09.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsLoginWithMultipleUser_11_06_2018_06_39_09.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@dba097]" name="afterMethod" is-config="true" duration-ms="711" started-at="2018-06-11T18:39:10Z" finished-at="2018-06-11T18:39:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SUCCESS method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@dba097] output=Test case LoginWithMultipleUser Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- signInAction.TC_Login -->
       <class name="ExaminationAndResultModule.ExamConfigMaster">
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158]" name="beforeMethod" is-config="true" duration-ms="4140" started-at="2018-06-05T13:04:22Z" finished-at="2018-06-05T13:04:26Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@4d6e83]" name="beforeMethod" is-config="true" duration-ms="4908" started-at="2018-06-11T18:38:51Z" finished-at="2018-06-11T18:38:56Z">
           <params>
             <param index="0">
               <value>
@@ -92,7 +316,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158]" name="ExamConfigMasterTest" duration-ms="5716" started-at="2018-06-05T13:04:26Z" data-provider="loginData" finished-at="2018-06-05T13:04:32Z">
+        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@4d6e83]" name="ExamConfigMasterTest" duration-ms="4002" started-at="2018-06-11T18:38:56Z" data-provider="loginData" finished-at="2018-06-11T18:39:00Z">
           <params>
             <param index="0">
               <value>
@@ -111,6 +335,9 @@
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
             <line>
               <![CDATA[Clicked on IUMS Login link]]>
             </line>
@@ -142,7 +369,7 @@
               <![CDATA[Switched to calendar frame]]>
             </line>
             <line>
-              <![CDATA[Today : Jun 5, 2018 is selected]]>
+              <![CDATA[Today : Jun 11, 2018 is selected]]>
             </line>
             <line>
               <![CDATA[From Month Selected]]>
@@ -165,13 +392,16 @@
             <line>
               <![CDATA[Clicked on Save Button]]>
             </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_11_06_2018_06_39_00.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsExamConfigMasterTest_11_06_2018_06_39_00.png' hight =100 width =100 /> </a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- ExamConfigMasterTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158]" name="afterMethod" is-config="true" duration-ms="937" started-at="2018-06-05T13:04:32Z" finished-at="2018-06-05T13:04:33Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@4d6e83]" name="afterMethod" is-config="true" duration-ms="696" started-at="2018-06-11T18:39:00Z" finished-at="2018-06-11T18:39:01Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@150c158] output=Clicked on IUMS Login link]]]>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@4d6e83] output=Test case ExamConfigMasterTest Started]]]>
               </value>
             </param>
           </params>
@@ -182,6 +412,146 @@
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- ExaminationAndResultModule.ExamConfigMaster -->
+      <class name="ExaminationAndResultModule.SanityTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@186f9d5]" name="beforeMethod" is-config="true" duration-ms="4959" started-at="2018-06-11T18:38:24Z" finished-at="2018-06-11T18:38:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@186f9d5]" name="examinationResultSanityTest" duration-ms="20280" started-at="2018-06-11T18:38:29Z" data-provider="loginData" finished-at="2018-06-11T18:38:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case examinationResultSanityTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_11_06_2018_06_38_32.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigMaster_11_06_2018_06_38_32.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_11_06_2018_06_38_35.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransaction_11_06_2018_06_38_35.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Grace Configuration Master]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_11_06_2018_06_38_38.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\GraceConfigurationMaster_11_06_2018_06_38_38.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on District PlaceMapping]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_11_06_2018_06_38_41.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\DistrictPlaceMapping_11_06_2018_06_38_41.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_11_06_2018_06_38_44.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamChallanNoConfiguration_11_06_2018_06_38_44.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_11_06_2018_06_38_47.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\GenralScreenshot\ExamConfigurationTransactionCollegeWise_11_06_2018_06_38_47.png' hight =100 width =100 /> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsexaminationResultSanityTest_11_06_2018_06_38_50.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\FailedTestScreenshot\pass_screenshotsexaminationResultSanityTest_11_06_2018_06_38_50.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@186f9d5]" name="afterMethod" is-config="true" duration-ms="875" started-at="2018-06-11T18:38:50Z" finished-at="2018-06-11T18:38:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=SUCCESS method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@186f9d5] output=Test case examinationResultSanityTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ExaminationAndResultModule.SanityTest -->
     </test> <!-- Login test chrome -->
   </suite> <!-- Regression Suite -->
 </testng-results>

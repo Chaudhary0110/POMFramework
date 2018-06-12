@@ -4,13 +4,13 @@
   <test name="Login test chrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="ExaminationAndResultModule.ExamConfigMaster">
+      <class name="ExaminationAndResultModule.SanityTest">
         <methods>
           <include name="afterMethod"/>
+          <include name="examinationResultSanityTest" invocation-numbers="0"/>
           <include name="beforeMethod"/>
-          <include name="ExamConfigMasterTest" invocation-numbers="0"/>
         </methods>
-      </class> <!-- ExaminationAndResultModule.ExamConfigMaster -->
+      </class> <!-- ExaminationAndResultModule.SanityTest -->
     </classes>
   </test> <!-- Login test chrome(failed) -->
 </suite> <!-- Failed suite [Regression Suite] -->

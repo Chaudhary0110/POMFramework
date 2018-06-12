@@ -1,0 +1,297 @@
+
+<a href="/projects/" title="Selenium Projects">Projects</a>
+
+//tagName[@attributeName = 'attributeValue']
+
+Xpath 
+
+//a[@href = '/projects/']
+//a[@title = 'Selenium Projects']
+
+CSS
+
+a[href = '/projects/']
+a[title = 'Selenium Projects']
+
+
+//a[@contans(text(), 'Downloads')]
+
+<li id="menu_documentation">
+<a href="/docs/" title="Technical references and guides">Documentation</a></li>
+
+//li[@id = 'menu_documentation']/a
+//a[@href='/docs/']
+//a[@title='Technical references and guides']
+//a[contains(text(), 'Documentation')]
+
+li[id = 'menu_documentation']>a
+a[href='/docs/']
+a[title='Technical references and guides']
+a[contains(text(), 'Documentation')]
+
+
+
+<h2>What is Selenium?</h2>
+
+//h2[contains(text) , 'What is Selenium']
+
+
+<input type="text" id="q" name="q" accesskey="s" size="30">
+
+
+//input[@id='q']
+//input[@name='q']
+
+
+#q
+input[id='q']
+input[name='q']
+
+<input type="submit" id="submit" value="Go">
+
+//input[@id = 'submit']
+//input[@id = 'submit' and @type='submit'] 
+
+#submit
+
+input[id = 'submit'][type='submit'] 
+
+
+<h3>Selenium WebDriver</h3>
+
+
+Git Commands ----------*********-------------
+
+1.	Open Git Bash.
+2.	Change the current working directory to your local project.
+3.	Initialize the local directory as a Git repository – git init
+4.	Add the files – git add . (git add file_name)
+5.	Commit the files – git commit –m “First Commit”
+6.	Add the URL for the remote repository – git remote add origin url 
+7.	Check existing remote - git remote –v
+8.	Push the commit – git push origin master  
+9.	Set the URL - git remote set-url origin url
+10.	Remove remote – git remove rm origin
+11. Pull updated project from repository - git pull
+12. Create branch - git checkout -b "Amit_local"
+13. To check all the branch - git branch
+14. Push the commit on local branch -  git push --set-upstream origin Amit_local
+15. Check the status - git status
+
+
+*/ ----- Data Provider --------
+
+
+public class testpractis {
+	
+	@Test (dataProvider = "UserNamePassword") 
+	//@Parameters ({"userName","passWord"})
+	public void testingDataProvider(String userName, String passWord){
+			
+		System.out.println("userName : "+userName);
+		System.out.println("passWord : "+passWord);
+		
+	}
+	
+	public String[][] getExcelData(String fileName, String sheetName) {
+		
+		String[][] ar = null;
+		
+		try {
+			
+			FileInputStream fs = new FileInputStream(new File(fileName));
+			XSSFWorkbook wb = new XSSFWorkbook(fs);
+			XSSFSheet sh = wb.getSheet(sheetName);
+
+			int totalNoOfRows = sh.getLastRowNum()+1;
+			int totalNoOfCols = sh.getRow(0).getLastCellNum();
+			
+			ar = new String[totalNoOfRows-1][totalNoOfCols];
+			
+			for (int i= 1 ; i < totalNoOfRows; i++) {
+				XSSFRow rows = sh.getRow(i);
+				for (int j=0; j < totalNoOfCols; j++) {
+					XSSFCell cell = rows.getCell(j);
+					ar[i-1][j] = cell.getStringCellValue();
+				}
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		} 
+		
+		return ar;
+	}
+	
+	@DataProvider (name = "UserNamePassword")
+	public Object[][] getData()	{
+	
+		Object[][] data = getExcelData("\\D:\\TestPractisData.xlsx","LoginTestData"); 	
+		
+		/*Object[][] data = new Object[3][2];
+
+		data[0][0] ="sampleuser1";
+		data[0][1] = "abcdef";
+
+		data[1][0] ="testuser2";
+		data[1][1] = "zxcvb";
+	
+		data[2][0] ="guestuser3";
+		data[2][1] = "pass123";*/
+
+	return data;
+	
+	}
+}
+
+
+----- Properties file code ----
+
+public class testpractis {
+	
+	Properties property ;
+	
+	public void loadData() throws IOException{
+		
+		property = new Properties();
+		
+		// Load first property file
+		
+		File file = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\configTest.properties");
+		FileReader f = new FileReader(file);
+		property.load(f);
+		
+		// Load second property file
+		
+		File file1 = new File(System.getProperty("user.dir") + "\\src\\main\\java\\config\\config.properties");
+		FileReader f1 = new FileReader(file1);
+		property.load(f1);
+		
+	}
+	
+	public String getObject(String data) throws IOException{
+		loadData();
+		return property.getProperty(data);
+	}
+	
+	@Test
+	public void getProperties() throws IOException{
+		System.out.println(getObject("Name"));
+		System.out.println(getObject("Place"));
+		System.out.println(getObject("url"));
+		System.out.println(getObject("browser"));
+	}
+	
+}
+
+
+------***************--TestNG code ******************------
+	
+public class testpractis {
+	
+	@BeforeClass(groups = {"regression", "sainity" , "database"})
+	public void testBeforeClass() {	System.out.println("Before Class"); }
+	
+	@Test(groups = {"regression", "sainity"})
+	public void test1() {	System.out.println("regression & sainity"); }
+	
+	@Test(groups = {"sainity", "database"})
+	public void test2() {	System.out.println("database & sainity"); }
+	
+	@Test(groups = {"regression"})
+	public void test3() {	System.out.println("regression"); }
+	
+	@Test(groups = {"sainity"})
+	public void test4() {	System.out.println("sainity");}
+	
+	@Test(dependsOnMethods = {"test1", "test2"})
+	public void depends() {	System.out.println("testing Dependson");}
+	
+	@Test 
+	@Parameters ({"userName","passWord"})
+	public void testingDataProvider(String userName, String passWord){
+			
+		System.out.println("userName : "+userName);
+		System.out.println("passWord : "+passWord);
+		
+	}
+	
+	@Test(enabled = false)
+	public void enabletest() {	System.out.println("testing enable disable");}
+}
+
+
+<suite name = "test DataProvider Xml" >
+
+	<parameter name = "userName" value = "user" />
+	<parameter name = "passWord" value = "pass" />
+
+<test name = "testing DataProvide Xml">
+
+	<groups>
+		<run>
+			<include name = "sainity" />	
+		</run>
+	</groups>
+
+	<classes>
+		<class name = "signInAction.testpractis" /> 
+	</classes>
+	
+</test>
+</suite>
+
+
+		*********** Java Script Executor ************
+		
+		public class testpractis {
+	
+		public WebDriver dr;
+		
+		@Test
+		public void javaScripExecuter() throws InterruptedException{
+		JavascriptExecutor js = (JavascriptExecutor)dr;
+		js.executeScript("arguments[0].click()", dr.findElement(By.xpath("//a[contains(text(),'University IUMS Login')]")));
+		for(String s : dr.getWindowHandles())
+			dr.switchTo().window(s);
+		js.executeScript("arguments[0].value = 'erp@admin'", dr.findElement(By.cssSelector("input[id='username']")));
+		js.executeScript("document.getElementById(id = 'upassword').value='abcd'");
+		js.executeScript("document.getElementsByClassName('logbutt')[0].click()");
+		js.executeScript("scrollBy(0, 250)");
+		js.executeScript("scrollBy(0, -250)");
+		((JavascriptExecutor)driver).executeScript("window.resizeTo(1024, 768);");
+	}
+	
+	
+	----- Grid Configuration code ----- 
+	
+	IN CMD - 
+		To register hub - java -jar selenium-server-standalone-3.10.0.jar -role hub
+		To register Node - java -jar selenium-server-standalone-3.10.0.jar -role node -hub http://localhost:4444/grid/register
+		
+		Register RemoteWebDriver with capabilities - 
+		RemoteWebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), DesiredCapabilities.firefox()); 
+	
+	---- Highest manager of the hierarchy ----------
+	
+	with cte 
+	as (
+		select id, name, mid, 1 as level from emp  
+		union all 
+		select e.id, e.name, m.mid, level + 1  from emp e, cte m 
+		where  e.mid = m.id
+		)
+	select c.name [Employee Name], t.name [Manager Name], * from cte c, cte t
+	where c.mid = t.id and t.mid is null and t.level = 1
+	
+	-------- Window size and position ------------------
+	
+	driver.manage().window().maximize();
+	driver.manage().window().setSize(new Dimension(300,500));
+	driver.manage().window().getSize().getHeight()
+	driver.manage().window().getSize().getWidth()
+	driver.manage().window().setPosition(new Point(50,200));
+	driver.manage().window().getPosition().getX()
+	driver.manage().window().getPosition().getY()
+	
+	

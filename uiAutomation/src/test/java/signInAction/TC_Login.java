@@ -26,7 +26,7 @@ public class TC_Login extends TestBase {
 	ExamConfigurationTransaction examConfigTran;
 	
 	
-	@Test(dataProvider = "loginData")
+	@Test(priority = 2, dataProvider = "loginData")
 	public void LoginWithMultipleUser(String userid, String password, String runMode) throws InterruptedException{
 		
 		homepage = new HomePage(dr);

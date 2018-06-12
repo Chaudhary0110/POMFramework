@@ -48,7 +48,7 @@ public class Listner extends TestBase implements ITestListener {
 			
 			File srcFile = ((TakesScreenshot) dr).getScreenshotAs(OutputType.FILE);
 			try{		
-				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\Screenshot\\PassedTestScreenshot";
+				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\Screenshot\\FailedTestScreenshot";
 				File destFile = new File((String) reportDirectory + "\\failure_screenshots" + methodName + "_" + formater.format(calendar.getTime())+".png");
 				FileUtils.copyFile(srcFile, destFile);
 				Reporter.log("<a href ='" + destFile.getAbsolutePath() + "'> <img src ='" + destFile.getAbsolutePath() + "' hight =100 width =100 /> </a>");
@@ -78,7 +78,7 @@ public class Listner extends TestBase implements ITestListener {
 		if(result.isSuccess()) {
 			File srcFile = ((TakesScreenshot) dr).getScreenshotAs(OutputType.FILE);
 			try{		
-				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\Screenshot\\FailedTestScreenshot\\";
+				String reportDirectory = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\Screenshot\\PassedTestScreenshot\\";
 				File destFile = new File((String) reportDirectory + "\\pass_screenshots" + methodName + "_" + formater.format(calendar.getTime())+".png");
 				FileUtils.copyFile(srcFile, destFile);
 				Reporter.log("<a href ='" + destFile.getAbsolutePath() + "'> <img src ='" + destFile.getAbsolutePath() + "' hight =100 width =100 /> </a>");

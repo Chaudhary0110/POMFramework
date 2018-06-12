@@ -30,7 +30,7 @@ public class ExamConfigMaster extends TestBase{
 	ExamConfigurationMaster examConfig;
 	ExamConfigurationTransaction examConfigTran;
 	
-	@Test(dataProvider = "loginData")
+	@Test(priority = 1, dataProvider = "loginData")
 	public void ExamConfigMasterTest(String userid, String password, String runMode) throws InterruptedException{
 		
 		

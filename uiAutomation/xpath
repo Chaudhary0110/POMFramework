@@ -259,6 +259,8 @@ public class testpractis {
 		js.executeScript("document.getElementsByClassName('logbutt')[0].click()");
 		js.executeScript("scrollBy(0, 250)");
 		js.executeScript("scrollBy(0, -250)");
+		((JavascriptExecutor)driver).executeScript("window.resizeTo(1024, 768);");
+		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", element);
 	}
 	
 	
