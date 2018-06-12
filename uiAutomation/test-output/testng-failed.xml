@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="customListner.Listner"/>
+  </listeners>
   <test name="Login test chrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="ExaminationAndResultModule.ExamConfigMaster">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="ExamConfigMasterTest" invocation-numbers="1 2 3 4"/>
+        </methods>
+      </class> <!-- ExaminationAndResultModule.ExamConfigMaster -->
       <class name="ExaminationAndResultModule.SanityTest">
         <methods>
           <include name="afterMethod"/>
-          <include name="examinationResultSanityTest" invocation-numbers="0"/>
+          <include name="examinationResultSanityTest" invocation-numbers="1 3 4"/>
           <include name="beforeMethod"/>
         </methods>
       </class> <!-- ExaminationAndResultModule.SanityTest -->
+      <class name="signInAction.TC_Login">
+        <methods>
+          <include name="LoginWithMultipleUser" invocation-numbers="1 2 3"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- signInAction.TC_Login -->
     </classes>
   </test> <!-- Login test chrome(failed) -->
 </suite> <!-- Failed suite [Regression Suite] -->

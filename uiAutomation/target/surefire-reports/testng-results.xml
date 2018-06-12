@@ -1,11 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="8" failed="0" ignored="0" total="17" passed="9">
   <reporter-output>
     <line>
       <![CDATA[Creating the object of : chrome]]>
     </line>
     <line>
       <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case examinationResultSanityTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Grace Configuration Master]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on District PlaceMapping]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_01.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_01.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case examinationResultSanityTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case examinationResultSanityTest Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case examinationResultSanityTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Grace Configuration Master]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on District PlaceMapping]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_19.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_19.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case examinationResultSanityTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case examinationResultSanityTest Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case examinationResultSanityTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Grace Configuration Master]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on District PlaceMapping]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_39.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_39.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
     </line>
     <line>
       <![CDATA[Clicked on IUMS Login link]]>
@@ -38,7 +287,7 @@
       <![CDATA[Switched to calendar frame]]>
     </line>
     <line>
-      <![CDATA[Today : Jun 5, 2018 is selected]]>
+      <![CDATA[Today : Jun 12, 2018 is selected]]>
     </line>
     <line>
       <![CDATA[From Month Selected]]>
@@ -62,15 +311,786 @@
       <![CDATA[Clicked on Save Button]]>
     </line>
     <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_38_15.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_38_15.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Retrying test ExamConfigMasterTest with status Failed for the 1 time(s)]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Session Selected]]>
+    </line>
+    <line>
+      <![CDATA[Switched to calendar frame]]>
+    </line>
+    <line>
+      <![CDATA[Today : Jun 12, 2018 is selected]]>
+    </line>
+    <line>
+      <![CDATA[From Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[From Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[Exam Category Selected]]>
+    </line>
+    <line>
+      <![CDATA[Is Active Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_39_40.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_39_40.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case ExamConfigMasterTest Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Examination & Result Module]]>
+    </line>
+    <line>
+      <![CDATA[Mouse Hover to Examination Master]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Exam Config Master]]>
+    </line>
+    <line>
+      <![CDATA[Session Selected]]>
+    </line>
+    <line>
+      <![CDATA[Switched to calendar frame]]>
+    </line>
+    <line>
+      <![CDATA[Today : Jun 12, 2018 is selected]]>
+    </line>
+    <line>
+      <![CDATA[From Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[From Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Month Selected]]>
+    </line>
+    <line>
+      <![CDATA[To Year Selected]]>
+    </line>
+    <line>
+      <![CDATA[Exam Category Selected]]>
+    </line>
+    <line>
+      <![CDATA[Is Active Selected]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Save Button]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_40_00.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_40_00.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case LoginWithMultipleUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[User logged Out from IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Navigate back to home page]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_09.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_09.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case LoginWithMultipleUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case LoginWithMultipleUser Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case LoginWithMultipleUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[User logged Out from IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Navigate back to home page]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_24.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_24.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case LoginWithMultipleUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case LoginWithMultipleUser Skipped]]>
+    </line>
+    <line>
+      <![CDATA[Driver session closed]]>
+    </line>
+    <line>
+      <![CDATA[Creating the object of : chrome]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+    </line>
+    <line>
+      <![CDATA[Test case LoginWithMultipleUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on IUMS Login link]]>
+    </line>
+    <line>
+      <![CDATA[Switched to new window]]>
+    </line>
+    <line>
+      <![CDATA[Entered userName is : erp@admin]]>
+    </line>
+    <line>
+      <![CDATA[Entered password is : Jnvu@)!^]]>
+    </line>
+    <line>
+      <![CDATA[User logged in to IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on logOut]]>
+    </line>
+    <line>
+      <![CDATA[User logged Out from IUMS JNVU]]>
+    </line>
+    <line>
+      <![CDATA[Navigate back to home page]]>
+    </line>
+    <line>
+      <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_40.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_40.png' hight =100 width =100 /> </a>]]>
+    </line>
+    <line>
       <![CDATA[Driver session closed]]>
     </line>
   </reporter-output>
-  <suite name="Regression Suite" duration-ms="11289" started-at="2018-06-05T07:34:50Z" finished-at="2018-06-05T07:35:02Z">
+  <suite name="Regression Suite" duration-ms="248376" started-at="2018-06-12T08:06:33Z" finished-at="2018-06-12T08:10:42Z">
     <groups>
     </groups>
-    <test name="Login test chrome" duration-ms="11289" started-at="2018-06-05T07:34:50Z" finished-at="2018-06-05T07:35:02Z">
+    <test name="Login test chrome" duration-ms="248376" started-at="2018-06-12T08:06:33Z" finished-at="2018-06-12T08:10:42Z">
+      <class name="signInAction.TC_Login">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="beforeMethod" is-config="true" duration-ms="5185" started-at="2018-06-12T13:40:01Z" finished-at="2018-06-12T13:40:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d]" name="LoginWithMultipleUser" duration-ms="2980" started-at="2018-06-12T13:40:06Z" data-provider="loginData" finished-at="2018-06-12T13:40:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case LoginWithMultipleUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[User logged Out from IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Navigate back to home page]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_09.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_09.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="afterMethod" is-config="true" duration-ms="727" started-at="2018-06-12T13:40:10Z" finished-at="2018-06-12T13:40:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SUCCESS method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d] output=Test case LoginWithMultipleUser Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="beforeMethod" is-config="true" duration-ms="5198" started-at="2018-06-12T13:40:11Z" finished-at="2018-06-12T13:40:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d]" name="LoginWithMultipleUser" duration-ms="2" started-at="2018-06-12T13:40:16Z" data-provider="loginData" finished-at="2018-06-12T13:40:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat signInAction.TC_Login.LoginWithMultipleUser(TC_Login.java:39)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case LoginWithMultipleUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case LoginWithMultipleUser Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="afterMethod" is-config="true" duration-ms="735" started-at="2018-06-12T13:40:16Z" finished-at="2018-06-12T13:40:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SKIP method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d] output=Test case LoginWithMultipleUser Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="beforeMethod" is-config="true" duration-ms="4722" started-at="2018-06-12T13:40:17Z" finished-at="2018-06-12T13:40:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d]" name="LoginWithMultipleUser" duration-ms="3250" started-at="2018-06-12T13:40:21Z" data-provider="loginData" finished-at="2018-06-12T13:40:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case LoginWithMultipleUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[User logged Out from IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Navigate back to home page]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_24.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_24.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="afterMethod" is-config="true" duration-ms="753" started-at="2018-06-12T13:40:25Z" finished-at="2018-06-12T13:40:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SUCCESS method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d] output=Test case LoginWithMultipleUser Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="beforeMethod" is-config="true" duration-ms="5528" started-at="2018-06-12T13:40:26Z" finished-at="2018-06-12T13:40:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d]" name="LoginWithMultipleUser" duration-ms="2" started-at="2018-06-12T13:40:31Z" data-provider="loginData" finished-at="2018-06-12T13:40:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat signInAction.TC_Login.LoginWithMultipleUser(TC_Login.java:39)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case LoginWithMultipleUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case LoginWithMultipleUser Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="afterMethod" is-config="true" duration-ms="704" started-at="2018-06-12T13:40:31Z" finished-at="2018-06-12T13:40:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SKIP method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d] output=Test case LoginWithMultipleUser Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="beforeMethod" is-config="true" duration-ms="5095" started-at="2018-06-12T13:40:32Z" finished-at="2018-06-12T13:40:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void signInAction.TC_Login.LoginWithMultipleUser(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d]" name="LoginWithMultipleUser" duration-ms="3078" started-at="2018-06-12T13:40:37Z" data-provider="loginData" finished-at="2018-06-12T13:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case LoginWithMultipleUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[User logged Out from IUMS JNVU]]>
+            </line>
+            <line>
+              <![CDATA[Navigate back to home page]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_40.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsLoginWithMultipleUser_12_06_2018_01_40_40.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithMultipleUser -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:signInAction.TC_Login@f2b07d]" name="afterMethod" is-config="true" duration-ms="730" started-at="2018-06-12T13:40:41Z" finished-at="2018-06-12T13:40:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginWithMultipleUser status=SUCCESS method=TC_Login.LoginWithMultipleUser(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:signInAction.TC_Login@f2b07d] output=Test case LoginWithMultipleUser Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- signInAction.TC_Login -->
       <class name="ExaminationAndResultModule.ExamConfigMaster">
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1088d51]" name="beforeMethod" is-config="true" duration-ms="4666" started-at="2018-06-05T13:04:51Z" finished-at="2018-06-05T13:04:56Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="27540" started-at="2018-06-12T13:37:40Z" finished-at="2018-06-12T13:38:07Z">
           <params>
             <param index="0">
               <value>
@@ -92,7 +1112,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1088d51]" name="ExamConfigMasterTest" duration-ms="5185" started-at="2018-06-05T13:04:56Z" data-provider="loginData" finished-at="2018-06-05T13:05:01Z">
+        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="7555" started-at="2018-06-12T13:38:07Z" data-provider="loginData" finished-at="2018-06-12T13:38:15Z">
           <params>
             <param index="0">
               <value>
@@ -111,6 +1131,9 @@
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
             <line>
               <![CDATA[Clicked on IUMS Login link]]>
             </line>
@@ -142,7 +1165,7 @@
               <![CDATA[Switched to calendar frame]]>
             </line>
             <line>
-              <![CDATA[Today : Jun 5, 2018 is selected]]>
+              <![CDATA[Today : Jun 12, 2018 is selected]]>
             </line>
             <line>
               <![CDATA[From Month Selected]]>
@@ -165,13 +1188,552 @@
             <line>
               <![CDATA[Clicked on Save Button]]>
             </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_38_15.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_38_15.png' hight =100 width =100 /> </a>]]>
+            </line>
           </reporter-output>
         </test-method> <!-- ExamConfigMasterTest -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1088d51]" name="afterMethod" is-config="true" duration-ms="921" started-at="2018-06-05T13:05:01Z" finished-at="2018-06-05T13:05:02Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="1059" started-at="2018-06-12T13:38:15Z" finished-at="2018-06-12T13:38:16Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@1088d51] output=Clicked on IUMS Login link]]]>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="6520" started-at="2018-06-12T13:38:16Z" finished-at="2018-06-12T13:38:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="2" started-at="2018-06-12T13:38:23Z" data-provider="loginData" finished-at="2018-06-12T13:38:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(ExamConfigMaster.java:45)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="689" started-at="2018-06-12T13:38:23Z" finished-at="2018-06-12T13:38:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SKIP method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="4859" started-at="2018-06-12T13:38:24Z" finished-at="2018-06-12T13:38:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="62053" started-at="2018-06-12T13:38:28Z" data-provider="loginData" finished-at="2018-06-12T13:39:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1"}  (Session info: chrome=66.0.3359.181)  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'ESLDELLV3', ip: '192.168.10.121', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_05'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\AMITCH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.181, webStorageEnabled: true}Session ID: 7f1387e27a6815f77ef9c10a6732d074*** Element info: {Using=xpath, value=//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1"}  (Session info: chrome=66.0.3359.181)  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.3.9600 x86) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'ESLDELLV3', ip: '192.168.10.121', os.name: 'Windows 8.1', os.arch: 'x86', os.version: '6.3', java.version: '1.8.0_05'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.544315 (730aa6a5fdba15..., userDataDir: C:\Users\AMITCH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.181, webStorageEnabled: true}Session ID: 7f1387e27a6815f77ef9c10a6732d074*** Element info: {Using=xpath, value=//*[@id='body']/div[2]/table/tbody/tr[1]/td/h1}at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)at java.lang.reflect.Constructor.newInstance(Unknown Source)at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:421)at org.openqa.selenium.By$ByXPath.findElement(By.java:361)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:311)at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)at com.sun.proxy.$Proxy11.getText(Unknown Source)at pageObject.MyModules.assignedModules(MyModules.java:35)at ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(ExamConfigMaster.java:56)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Retrying test ExamConfigMasterTest with status Failed for the 1 time(s)]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="731" started-at="2018-06-12T13:39:30Z" finished-at="2018-06-12T13:39:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SKIP method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="4534" started-at="2018-06-12T13:39:31Z" finished-at="2018-06-12T13:39:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="4223" started-at="2018-06-12T13:39:36Z" data-provider="loginData" finished-at="2018-06-12T13:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Session Selected]]>
+            </line>
+            <line>
+              <![CDATA[Switched to calendar frame]]>
+            </line>
+            <line>
+              <![CDATA[Today : Jun 12, 2018 is selected]]>
+            </line>
+            <line>
+              <![CDATA[From Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[From Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[Exam Category Selected]]>
+            </line>
+            <line>
+              <![CDATA[Is Active Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_39_40.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_39_40.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="853" started-at="2018-06-12T13:39:40Z" finished-at="2018-06-12T13:39:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="4335" started-at="2018-06-12T13:39:41Z" finished-at="2018-06-12T13:39:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="2" started-at="2018-06-12T13:39:46Z" data-provider="loginData" finished-at="2018-06-12T13:39:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(ExamConfigMaster.java:45)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="702" started-at="2018-06-12T13:39:46Z" finished-at="2018-06-12T13:39:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SKIP method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="4275" started-at="2018-06-12T13:39:46Z" finished-at="2018-06-12T13:39:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="2" started-at="2018-06-12T13:39:51Z" data-provider="loginData" finished-at="2018-06-12T13:39:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(ExamConfigMaster.java:45)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.retryFailed(Invoker.java:829)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1000)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ExamConfigMasterTest Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="742" started-at="2018-06-12T13:39:51Z" finished-at="2018-06-12T13:39:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SKIP method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="beforeMethod" is-config="true" duration-ms="4420" started-at="2018-06-12T13:39:51Z" finished-at="2018-06-12T13:39:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.ExamConfigMaster.ExamConfigMasterTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="ExamConfigMasterTest" duration-ms="4169" started-at="2018-06-12T13:39:56Z" data-provider="loginData" finished-at="2018-06-12T13:40:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case ExamConfigMasterTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Session Selected]]>
+            </line>
+            <line>
+              <![CDATA[Switched to calendar frame]]>
+            </line>
+            <line>
+              <![CDATA[Today : Jun 12, 2018 is selected]]>
+            </line>
+            <line>
+              <![CDATA[From Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[From Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Month Selected]]>
+            </line>
+            <line>
+              <![CDATA[To Year Selected]]>
+            </line>
+            <line>
+              <![CDATA[Exam Category Selected]]>
+            </line>
+            <line>
+              <![CDATA[Is Active Selected]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Save Button]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_40_00.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsExamConfigMasterTest_12_06_2018_01_40_00.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ExamConfigMasterTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd]" name="afterMethod" is-config="true" duration-ms="742" started-at="2018-06-12T13:40:00Z" finished-at="2018-06-12T13:40:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExamConfigMasterTest status=SUCCESS method=ExamConfigMaster.ExamConfigMasterTest(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:ExaminationAndResultModule.ExamConfigMaster@e52dcd] output=Test case ExamConfigMasterTest Started]]]>
               </value>
             </param>
           </params>
@@ -182,6 +1744,510 @@
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- ExaminationAndResultModule.ExamConfigMaster -->
+      <class name="ExaminationAndResultModule.SanityTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="beforeMethod" is-config="true" duration-ms="20268" started-at="2018-06-12T13:36:34Z" finished-at="2018-06-12T13:36:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="examinationResultSanityTest" duration-ms="6863" started-at="2018-06-12T13:36:55Z" data-provider="loginData" finished-at="2018-06-12T13:37:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case examinationResultSanityTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Grace Configuration Master]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on District PlaceMapping]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_01.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_01.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="afterMethod" is-config="true" duration-ms="1209" started-at="2018-06-12T13:37:02Z" finished-at="2018-06-12T13:37:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=SUCCESS method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec] output=Test case examinationResultSanityTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="beforeMethod" is-config="true" duration-ms="5385" started-at="2018-06-12T13:37:03Z" finished-at="2018-06-12T13:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="examinationResultSanityTest" duration-ms="3" started-at="2018-06-12T13:37:08Z" data-provider="loginData" finished-at="2018-06-12T13:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat ExaminationAndResultModule.SanityTest.examinationResultSanityTest(SanityTest.java:35)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case examinationResultSanityTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case examinationResultSanityTest Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="afterMethod" is-config="true" duration-ms="804" started-at="2018-06-12T13:37:08Z" finished-at="2018-06-12T13:37:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=SKIP method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec] output=Test case examinationResultSanityTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="beforeMethod" is-config="true" duration-ms="5024" started-at="2018-06-12T13:37:09Z" finished-at="2018-06-12T13:37:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="examinationResultSanityTest" duration-ms="5169" started-at="2018-06-12T13:37:14Z" data-provider="loginData" finished-at="2018-06-12T13:37:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case examinationResultSanityTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Grace Configuration Master]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on District PlaceMapping]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_19.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_19.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="afterMethod" is-config="true" duration-ms="802" started-at="2018-06-12T13:37:20Z" finished-at="2018-06-12T13:37:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=SUCCESS method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec] output=Test case examinationResultSanityTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="beforeMethod" is-config="true" duration-ms="5268" started-at="2018-06-12T13:37:20Z" finished-at="2018-06-12T13:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="examinationResultSanityTest" duration-ms="2" started-at="2018-06-12T13:37:26Z" data-provider="loginData" finished-at="2018-06-12T13:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[User Marked this test as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: User Marked this test as no runat ExaminationAndResultModule.SanityTest.examinationResultSanityTest(SanityTest.java:35)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)at java.lang.reflect.Method.invoke(Unknown Source)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test case examinationResultSanityTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case examinationResultSanityTest Skipped]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="afterMethod" is-config="true" duration-ms="705" started-at="2018-06-12T13:37:26Z" finished-at="2018-06-12T13:37:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=SKIP method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec] output=Test case examinationResultSanityTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="beforeMethod" is-config="true" duration-ms="5740" started-at="2018-06-12T13:37:26Z" finished-at="2018-06-12T13:37:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void ExaminationAndResultModule.SanityTest.examinationResultSanityTest(java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Creating the object of : chrome]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to the : http://52.172.14.165/JNVUIUMS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="examinationResultSanityTest" duration-ms="6574" started-at="2018-06-12T13:37:32Z" data-provider="loginData" finished-at="2018-06-12T13:37:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[erp@admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jnvu@)!^]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test case examinationResultSanityTest Started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on IUMS Login link]]>
+            </line>
+            <line>
+              <![CDATA[Switched to new window]]>
+            </line>
+            <line>
+              <![CDATA[Entered userName is : erp@admin]]>
+            </line>
+            <line>
+              <![CDATA[Entered password is : Jnvu@)!^]]>
+            </line>
+            <line>
+              <![CDATA[User logged in to IUMS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Examination & Result Module]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Config Master]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Grace Configuration Master]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on District PlaceMapping]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction]]>
+            </line>
+            <line>
+              <![CDATA[Mouse Hover to Examination Master]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Exam Configuration Transaction College Wise]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on logOut]]>
+            </line>
+            <line>
+              <![CDATA[<a href ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_39.png'> <img src ='D:\hybridFramework\uiAutomation\Screenshot\PassedTestScreenshot\pass_screenshotsexaminationResultSanityTest_12_06_2018_01_37_39.png' hight =100 width =100 /> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- examinationResultSanityTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec]" name="afterMethod" is-config="true" duration-ms="747" started-at="2018-06-12T13:37:39Z" finished-at="2018-06-12T13:37:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=examinationResultSanityTest status=SUCCESS method=SanityTest.examinationResultSanityTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ExaminationAndResultModule.SanityTest@4a52ec] output=Test case examinationResultSanityTest Started]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver session closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ExaminationAndResultModule.SanityTest -->
     </test> <!-- Login test chrome -->
   </suite> <!-- Regression Suite -->
 </testng-results>
